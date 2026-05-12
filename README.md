@@ -26,7 +26,7 @@ This project analyzes mobile sales data using SQL, Python, and Power BI to ident
 
 # Dashboard Preview
 
-(Add dashboard screenshot here)
+![Dashboard](https://github.com/VKSharma117/Mobile-sales-analysis-dashboard/blob/main/dashboard/Mobile%20sales%20dashboard.png?raw=true)
 
 # Files Included
 
