@@ -1,0 +1,1001 @@
+Transaction ID,Date,Day,Brand,Units Sold,Price,Customer,Age,City,Method,Rating,Model
+1,07-04-2023,Friday,Apple,2,77148,Tanmay,51,Bangalore,Net Banking,5,Realme 11
+2,15-09-2023,Friday,Samsung,8,68234,Khushi,54,Chennai,Net Banking,5,Realme GT Neo 3
+3,07-08-2023,Monday,Samsung,4,59906,Neha,42,Bhopal,UPI,2,Redmi Note 12
+4,19-03-2023,Sunday,Apple,6,14068,Sumit,33,Kolkata,Net Banking,2,iPhone 12
+5,01-03-2023,Wednesday,Apple,3,59853,Gaurav,31,Pune,Cash,5,OnePlus Nord 2T
+6,08-08-2023,Tuesday,Apple,5,27015,Aditya,22,Jaipur,Cash,2,iPhone 11
+7,20-01-2023,Friday,Apple,4,59855,Himanshu,54,Bhopal,Card,3,OnePlus 9R
+8,21-11-2023,Tuesday,Xiaomi,5,58721,Neha,57,Chennai,Net Banking,5,Samsung Galaxy A54
+9,03-05-2023,Wednesday,Apple,7,76400,Priya,35,Delhi,Card,4,Realme GT Neo 3
+10,01-03-2023,Wednesday,Samsung,2,26797,Mohit,57,Chennai,Net Banking,4,Samsung Galaxy M34
+11,04-07-2023,Tuesday,Xiaomi,8,55761,Komal,46,Pune,Card,4,OnePlus 10
+12,06-02-2023,Monday,Apple,4,62320,Vishal,20,Pune,Cash,5,Samsung Galaxy M34
+13,19-10-2023,Thursday,Apple,4,22246,Abhishek,48,Kolkata,Net Banking,4,iPhone 13
+14,05-06-2023,Monday,Samsung,2,63980,Manya,22,Surat,UPI,4,iPhone 11
+15,18-07-2023,Tuesday,OnePlus,5,26546,Vikas,47,Noida,Cash,2,OnePlus 11
+16,02-07-2023,Sunday,OnePlus,5,56777,Priya,24,Guhwati,Cash,4,OnePlus Nord 2T
+17,18-05-2023,Thursday,Apple,1,38022,Raj,58,Delhi,UPI,3,OnePlus 9R
+18,25-10-2023,Wednesday,Samsung,6,12493,Rohit,40,Pune,Cash,1,OnePlus Nord CE 3
+19,10-08-2023,Thursday,Samsung,9,43663,Abhishek,51,Bhopal,UPI,4,Xiaomi Mi 10
+20,27-02-2023,Monday,Apple,5,15193,Bhuvan,55,Noida,Card,1,Samsung Galaxy S23
+21,24-02-2023,Friday,Xiaomi,2,14889,Sumit,24,Bangalore,Card,4,OnePlus Nord 2T
+22,14-07-2023,Friday,Samsung,6,34559,Jiya,59,Kolkata,UPI,5,Redmi K50
+23,08-04-2023,Saturday,Samsung,1,13778,Tanmay,25,Bhopal,Cash,1,OnePlus 9R
+24,14-07-2023,Friday,Realme,4,66796,Amit,53,Surat,UPI,2,Xiaomi 11T
+25,06-06-2023,Tuesday,Apple,1,58204,Yash,52,Guhwati,Cash,2,Samsung Galaxy S23
+26,16-10-2023,Monday,OnePlus,6,21555,Pranav,48,Pune,Net Banking,4,Realme 11
+27,04-12-2023,Monday,Realme,5,20942,Priya,36,Chennai,Card,2,Realme GT Neo 3
+28,18-08-2023,Friday,Apple,4,43223,Amit,32,Pune,Card,4,Samsung Galaxy A54
+29,09-06-2023,Friday,Apple,2,55790,Amit,46,Pune,Cash,4,Samsung Galaxy Note 20
+30,11-07-2023,Tuesday,Apple,8,26964,Amit,25,Kolkata,Card,2,OnePlus Nord 2T
+31,15-12-2023,Friday,Realme,7,24475,Khushi,50,Surat,Card,1,OnePlus 11
+32,01-01-2023,Sunday,Xiaomi,8,37436,Tanmay,41,Chennai,UPI,5,Realme 11
+33,11-03-2023,Saturday,Samsung,7,63803,Lokesh,42,Guhwati,Net Banking,4,Redmi Note 12
+34,22-05-2023,Monday,Apple,5,77008,Priyanshu,20,Jaipur,Net Banking,1,Redmi K50
+35,20-01-2023,Friday,Realme,9,70026,Chavi,53,Pune,Card,4,Samsung Galaxy S23
+36,24-04-2023,Monday,Samsung,9,71332,Om,21,Pune,UPI,5,iPhone 13
+37,26-03-2023,Sunday,Apple,8,62758,Aditya,25,Jaipur,Card,5,OnePlus 9R
+38,24-06-2023,Saturday,OnePlus,2,35423,Jiya,58,Bangalore,Cash,2,Samsung Galaxy Note 20
+39,17-02-2023,Friday,OnePlus,4,54372,Himanshu,24,Kolkata,Net Banking,1,OnePlus 10
+40,25-04-2023,Tuesday,Xiaomi,1,43455,Nandini,30,Guhwati,Net Banking,5,OnePlus 10
+41,18-10-2023,Wednesday,OnePlus,8,67585,Ramesh,36,Bangalore,Cash,5,Realme Narzo 60
+42,18-01-2023,Wednesday,OnePlus,1,63648,Komal,49,Kolkata,Cash,2,Xiaomi 13
+43,08-04-2023,Saturday,Xiaomi,3,12576,Sara,59,Bhopal,Net Banking,3,OnePlus Nord 2T
+44,05-06-2023,Monday,Xiaomi,3,47255,Ishika,46,Pune,Net Banking,4,Samsung Galaxy A54
+45,03-07-2023,Monday,Realme,4,50720,Sara,27,Mumbai,Cash,5,OnePlus 11
+46,13-12-2023,Wednesday,Samsung,6,32047,Amit,46,Chennai,UPI,2,Xiaomi 11T
+47,20-02-2023,Monday,Realme,1,22535,Vivek,35,Delhi,UPI,3,Xiaomi 11T
+48,14-06-2023,Wednesday,Realme,9,58572,Manya,43,Delhi,Net Banking,5,OnePlus 9R
+49,02-06-2023,Friday,Apple,6,13335,Himanshu,46,Kolkata,Card,3,Realme GT 2
+50,04-04-2023,Tuesday,Xiaomi,8,60999,Rohit,28,Gurugram,Card,1,OnePlus Nord 2T
+51,23-10-2023,Monday,Apple,2,30092,Pranav,46,Noida,Card,2,iPhone 13
+52,01-04-2023,Saturday,OnePlus,4,72753,Pallavi,38,Guhwati,Card,1,Samsung Galaxy A54
+53,11-10-2023,Wednesday,Apple,4,35650,Jiya,34,Gurugram,Cash,5,iPhone 11
+54,27-08-2023,Sunday,Apple,3,56299,Manisha,28,Gurugram,Cash,5,OnePlus 10
+55,08-07-2023,Saturday,OnePlus,9,21293,Chavi,20,Chennai,UPI,3,iPhone 12
+56,17-02-2023,Friday,Samsung,8,25395,Abhishek,30,Kolkata,Cash,4,Realme 11
+57,15-09-2023,Friday,Apple,8,35172,Sara,41,Delhi,Card,1,Realme C55
+58,25-03-2023,Saturday,Apple,4,29036,Yash,36,Bangalore,Net Banking,5,Samsung Galaxy Z5
+59,07-06-2023,Wednesday,Apple,5,21852,Chavi,39,Mumbai,Cash,4,Realme GT 2
+60,30-10-2023,Monday,Samsung,6,56987,Manisha,20,Surat,Card,5,iPhone 15
+61,24-01-2023,Tuesday,Apple,4,45011,Sumit,23,Jaipur,Card,3,Realme GT Neo 3
+62,09-09-2023,Saturday,Realme,4,47845,Nandini,47,Noida,Cash,5,Samsung Galaxy A54
+63,23-12-2023,Saturday,Xiaomi,3,35644,Vivek,44,Bhopal,UPI,4,Samsung Galaxy S23
+64,24-10-2023,Tuesday,Xiaomi,3,67245,Nandini,41,Bhopal,Net Banking,4,OnePlus 10
+65,29-03-2023,Wednesday,Samsung,3,53532,Vikas,22,Surat,Net Banking,4,OnePlus 9R
+66,01-05-2023,Monday,Xiaomi,2,72763,Mohit,42,Jaipur,UPI,1,OnePlus 9R
+67,17-05-2023,Wednesday,OnePlus,5,55924,Ishika,45,Guhwati,UPI,5,Realme C55
+68,09-11-2023,Thursday,Xiaomi,5,22621,Raj,35,Pune,UPI,5,Xiaomi Mi 10
+69,24-04-2023,Monday,Samsung,3,52705,Yash,58,Jaipur,Cash,5,Realme C55
+70,28-04-2023,Friday,Realme,1,52578,Mohit,56,Pune,Cash,3,Samsung Galaxy M34
+71,01-05-2023,Monday,Xiaomi,6,62684,Priyanshu,59,Gurugram,UPI,5,Xiaomi 13
+72,24-05-2023,Wednesday,Xiaomi,4,29113,Tanisha,24,Ranchi,Card,3,Samsung Galaxy S23
+73,19-12-2023,Tuesday,OnePlus,1,49301,Deepak,26,Chennai,UPI,5,iPhone 15
+74,11-06-2023,Sunday,Realme,3,56184,Uphaar,51,Bangalore,Card,3,iPhone 11
+75,23-08-2023,Wednesday,Samsung,6,33964,Manya,36,Bhopal,Cash,5,Samsung Galaxy Note 20
+76,05-10-2023,Thursday,Apple,4,76747,Bhuvan,24,Kolkata,UPI,4,iPhone 15
+77,27-01-2023,Friday,OnePlus,2,22949,Amit,51,Mumbai,Card,5,iPhone 12
+78,27-04-2023,Thursday,Apple,2,19876,Ramesh,24,Chennai,UPI,4,Realme 11
+79,20-08-2023,Sunday,Xiaomi,9,17174,Priyanshu,28,Gurugram,Card,1,OnePlus Nord 2T
+80,27-03-2023,Monday,Xiaomi,2,74889,Lokesh,52,Bangalore,Cash,4,Realme C55
+81,20-11-2023,Monday,OnePlus,5,35537,Priyanshu,28,Mumbai,UPI,5,Xiaomi 11T
+82,21-07-2023,Friday,Apple,4,36676,Abhishek,59,Bhopal,Cash,5,iPhone 13
+83,13-08-2023,Sunday,Realme,4,34839,Uphaar,26,Jaipur,Net Banking,4,Redmi Note 12
+84,28-12-2023,Thursday,Xiaomi,6,58372,Vivek,57,Guhwati,UPI,4,iPhone 11
+85,02-08-2023,Wednesday,OnePlus,7,40711,Manisha,20,Bhopal,UPI,3,Xiaomi 11T
+86,13-04-2023,Thursday,Xiaomi,6,16931,Sumit,36,Bangalore,Net Banking,1,OnePlus Nord 2T
+87,21-05-2023,Sunday,Realme,4,74220,Khushi,51,Surat,Cash,3,Samsung Galaxy Z5
+88,10-08-2023,Thursday,OnePlus,3,43046,Diksha,49,Delhi,Cash,4,Realme 11
+89,09-03-2023,Thursday,Xiaomi,4,74537,Riya,32,Noida,UPI,2,iPhone 15
+90,17-11-2023,Friday,Apple,4,32959,Yash,37,Gurugram,Net Banking,5,iPhone 12
+91,02-01-2023,Monday,Apple,6,61963,Vivek,51,Mumbai,Cash,4,Xiaomi Mi 10
+92,18-08-2023,Friday,OnePlus,9,72991,Lokesh,54,Gurugram,UPI,2,OnePlus Nord CE 3
+93,21-05-2023,Sunday,Realme,2,60867,Uphaar,34,Ranchi,UPI,4,Samsung Galaxy A54
+94,23-07-2023,Sunday,Samsung,5,30902,Manisha,51,Delhi,UPI,5,Realme Narzo 60
+95,28-09-2023,Thursday,Apple,5,59326,Priyanshu,29,Pune,Cash,5,iPhone 11
+96,26-09-2023,Tuesday,Realme,5,40221,Yash,41,Gurugram,Net Banking,3,iPhone 13
+97,03-08-2023,Thursday,OnePlus,5,69099,Deepak,30,Bhopal,Net Banking,3,OnePlus 9R
+98,25-11-2023,Saturday,Xiaomi,6,59030,Khushi,60,Jaipur,Net Banking,4,Xiaomi 11T
+99,30-01-2023,Monday,Samsung,8,71146,Lokesh,33,Jaipur,Cash,4,Samsung Galaxy S23
+100,01-07-2023,Saturday,Apple,7,49358,Tanmay,32,Bhopal,UPI,3,OnePlus 11
+101,27-03-2023,Monday,Samsung,8,61107,Tanisha,34,Ranchi,Cash,5,Xiaomi 11T
+102,31-01-2023,Tuesday,OnePlus,3,16787,Manya,50,Kolkata,Net Banking,5,OnePlus Nord 2T
+103,13-02-2023,Monday,OnePlus,5,52549,Priya,40,Pune,Card,3,iPhone 15
+104,15-02-2023,Wednesday,Realme,8,25244,Priyanshu,29,Kolkata,Cash,2,OnePlus 9R
+105,31-01-2023,Tuesday,Samsung,8,31599,Lokesh,28,Ranchi,Cash,4,Redmi K50
+106,03-07-2023,Monday,Apple,7,32073,Rahul,24,Bangalore,Card,5,iPhone 11
+107,08-09-2023,Friday,Realme,8,66749,Ramesh,43,Bangalore,Net Banking,3,Samsung Galaxy A54
+108,31-12-2023,Sunday,Apple,9,28608,Sara,51,Surat,UPI,4,Xiaomi 11T
+109,20-05-2023,Saturday,OnePlus,4,26001,Diksha,28,Noida,Net Banking,5,Samsung Galaxy Z5
+110,05-04-2023,Wednesday,Xiaomi,9,13811,Aditya,30,Pune,Cash,1,OnePlus 10
+111,16-02-2023,Thursday,Xiaomi,7,69578,Neha,60,Guhwati,Card,5,Samsung Galaxy S23
+112,17-09-2023,Sunday,Xiaomi,9,68499,Amit,55,Chennai,Net Banking,4,OnePlus 9R
+113,17-03-2023,Friday,Xiaomi,9,43241,Sumit,37,Bhopal,Net Banking,5,iPhone 13
+114,30-10-2023,Monday,Realme,3,31104,Komal,25,Mumbai,Card,5,Samsung Galaxy Z5
+115,15-09-2023,Friday,Realme,6,70078,Om,55,Ranchi,Card,3,OnePlus Nord 2T
+116,31-05-2023,Wednesday,Samsung,4,53280,Deepak,54,Pune,Cash,5,Samsung Galaxy Z5
+117,10-02-2023,Friday,Xiaomi,5,62026,Priyanshu,45,Delhi,Card,5,Samsung Galaxy S23
+118,19-04-2023,Wednesday,Xiaomi,6,66874,Sumit,49,Jaipur,UPI,3,Realme GT 2
+119,29-01-2023,Sunday,Xiaomi,5,27507,Mohit,34,Guhwati,Net Banking,5,Samsung Galaxy S23
+120,17-04-2023,Monday,Samsung,5,47820,Diksha,31,Mumbai,Card,5,Realme GT Neo 3
+121,26-10-2023,Thursday,Samsung,2,33767,Bhuvan,18,Chennai,Net Banking,5,Realme GT 2
+122,10-10-2023,Tuesday,Apple,3,30355,Priya,41,Kolkata,Card,5,Xiaomi Mi 10
+123,27-06-2023,Tuesday,Realme,7,76398,Pranav,41,Jaipur,UPI,2,OnePlus 10
+124,02-03-2023,Thursday,OnePlus,7,56856,Rahul,53,Chennai,Card,2,Realme GT Neo 3
+125,09-03-2023,Thursday,Xiaomi,1,46778,Amit,37,Noida,Net Banking,1,Samsung Galaxy Z5
+126,27-09-2023,Wednesday,Realme,1,10326,Ramesh,28,Pune,Card,5,Samsung Galaxy A54
+127,13-03-2023,Monday,Xiaomi,6,21390,Komal,39,Bhopal,Net Banking,5,Samsung Galaxy Z5
+128,21-11-2023,Tuesday,Xiaomi,8,21561,Ishika,29,Ranchi,Card,5,iPhone 11
+129,20-12-2023,Wednesday,Xiaomi,4,49018,Sara,22,Jaipur,Net Banking,3,iPhone 11
+130,10-08-2023,Thursday,Samsung,6,12137,Abhishek,52,Surat,Net Banking,4,Samsung Galaxy Note 20
+131,06-08-2023,Sunday,Xiaomi,5,33163,Tanmay,32,Ranchi,Cash,2,iPhone 11
+132,22-04-2023,Saturday,OnePlus,1,29616,Rahul,27,Mumbai,Card,3,iPhone 15
+133,22-07-2023,Saturday,OnePlus,4,25133,Neha,59,Guhwati,UPI,5,OnePlus 9R
+134,22-06-2023,Thursday,OnePlus,8,53415,Diksha,32,Ranchi,Net Banking,5,Samsung Galaxy Z5
+135,12-10-2023,Thursday,Realme,7,26598,Riya,50,Bhopal,Net Banking,5,iPhone 12
+136,28-01-2023,Saturday,OnePlus,3,21806,Sumit,56,Gurugram,Cash,5,Realme GT 2
+137,09-10-2023,Monday,Realme,8,58877,Priya,25,Bhopal,Net Banking,5,Redmi K50
+138,19-09-2023,Tuesday,Apple,1,76380,Ishika,54,Guhwati,Card,5,Redmi Note 12
+139,15-09-2023,Friday,Realme,6,16287,Deepak,56,Jaipur,Net Banking,4,Redmi Note 12
+140,20-12-2023,Wednesday,Xiaomi,8,56595,Chavi,27,Bhopal,Cash,5,Realme 11
+141,07-02-2023,Tuesday,Realme,8,52201,Diksha,24,Kolkata,Card,1,iPhone 13
+142,14-05-2023,Sunday,Samsung,5,32468,Pallavi,28,Ranchi,Net Banking,5,Xiaomi 13
+143,08-05-2023,Monday,Apple,2,19133,Pallavi,56,Bhopal,UPI,1,iPhone 13
+144,03-06-2023,Saturday,Samsung,2,34206,Deepak,50,Mumbai,Net Banking,3,Xiaomi 11T
+145,06-10-2023,Friday,Apple,2,28345,Rohit,53,Mumbai,Net Banking,5,Xiaomi 11T
+146,27-10-2023,Friday,OnePlus,6,25045,Vishal,28,Delhi,Net Banking,4,Samsung Galaxy Z5
+147,08-09-2023,Friday,Realme,6,38028,Vivek,45,Mumbai,Card,3,OnePlus 11
+148,08-02-2023,Wednesday,OnePlus,4,51868,Khushi,38,Noida,Cash,4,iPhone 12
+149,16-10-2023,Monday,Samsung,6,33134,Pranav,53,Chennai,Card,5,iPhone 15
+150,08-07-2023,Saturday,Xiaomi,5,41136,Lokesh,31,Delhi,Cash,1,OnePlus Nord 2T
+151,24-09-2023,Sunday,Samsung,3,76898,Raj,21,Bhopal,UPI,3,Samsung Galaxy M34
+152,22-01-2023,Sunday,Samsung,6,72664,Sara,50,Mumbai,Cash,3,OnePlus Nord 2T
+153,02-10-2023,Monday,OnePlus,2,30445,Raj,31,Bangalore,Cash,5,Realme GT Neo 3
+154,12-12-2023,Tuesday,Realme,2,79520,Manya,35,Noida,UPI,3,Samsung Galaxy Note 20
+155,07-07-2023,Friday,Apple,4,31152,Ramesh,41,Pune,Net Banking,2,OnePlus 10
+156,16-07-2023,Sunday,OnePlus,5,29797,Vishal,30,Kolkata,Card,1,Realme GT 2
+157,07-04-2023,Friday,Apple,3,72188,Ramesh,58,Bhopal,Net Banking,3,OnePlus Nord 2T
+158,10-02-2023,Friday,Apple,2,35443,Nishita,56,Pune,Cash,5,Samsung Galaxy Note 20
+159,17-12-2023,Sunday,Realme,3,29604,Tanmay,49,Mumbai,Card,5,Xiaomi 13
+160,20-11-2023,Monday,Realme,1,59352,Komal,27,Pune,Cash,3,Realme GT Neo 3
+161,25-05-2023,Thursday,Xiaomi,2,75824,Raj,34,Pune,Net Banking,5,Realme C55
+162,29-09-2023,Friday,Apple,2,27003,Rahul,50,Mumbai,Cash,1,Realme GT Neo 3
+163,29-11-2023,Wednesday,OnePlus,4,62751,Rohit,22,Chennai,Card,5,OnePlus 11
+164,12-12-2023,Tuesday,Realme,3,37309,Aditya,22,Delhi,Card,5,Xiaomi Mi 10
+165,17-10-2023,Tuesday,Realme,3,17000,Om,53,Noida,UPI,3,Realme C55
+166,06-01-2023,Friday,Xiaomi,8,16755,Nandini,40,Gurugram,UPI,4,Samsung Galaxy A54
+167,22-04-2023,Saturday,Apple,2,23870,Lokesh,27,Gurugram,Net Banking,5,OnePlus 11
+168,01-02-2023,Wednesday,Xiaomi,8,72032,Ramesh,25,Ranchi,Net Banking,5,Xiaomi 11T
+169,15-06-2023,Thursday,Samsung,9,53020,Mohit,50,Kolkata,Cash,4,OnePlus 10
+170,30-09-2023,Saturday,OnePlus,2,21354,Manisha,30,Guhwati,Cash,5,Realme Narzo 60
+171,08-05-2023,Monday,Apple,2,13151,Ishika,20,Gurugram,Cash,2,Redmi Note 12
+172,02-08-2023,Wednesday,Samsung,3,51798,Manya,31,Bangalore,Card,5,iPhone 12
+173,09-03-2023,Thursday,Samsung,5,13845,Om,37,Ranchi,Card,5,Realme GT Neo 3
+174,27-06-2023,Tuesday,Apple,3,20454,Neha,51,Mumbai,Card,4,Xiaomi 13
+175,27-02-2023,Monday,Xiaomi,1,62245,Bhuvan,19,Pune,Net Banking,2,iPhone 11
+176,14-04-2023,Friday,Apple,2,60548,Bhuvan,53,Bhopal,Cash,5,Samsung Galaxy S23
+177,06-01-2023,Friday,Realme,6,25556,Sumit,41,Jaipur,Card,2,Realme GT 2
+178,21-01-2023,Saturday,Xiaomi,9,41027,Rahul,55,Jaipur,UPI,5,iPhone 12
+179,12-02-2023,Sunday,Xiaomi,1,62394,Aditya,46,Ranchi,UPI,3,iPhone 11
+180,27-03-2023,Monday,Xiaomi,7,54665,Sara,25,Guhwati,Card,5,Redmi K50
+181,15-06-2023,Thursday,OnePlus,7,56547,Sumit,19,Noida,Cash,2,OnePlus 10
+182,23-05-2023,Tuesday,OnePlus,7,39807,Raj,23,Chennai,Cash,2,OnePlus 9R
+183,28-04-2023,Friday,Xiaomi,4,17989,Diksha,58,Pune,Card,5,Realme C55
+184,20-05-2023,Saturday,OnePlus,3,29567,Om,34,Chennai,Card,1,Xiaomi 13
+185,02-01-2023,Monday,Samsung,1,64836,Priyanshu,18,Mumbai,UPI,2,Realme 11
+186,15-02-2023,Wednesday,OnePlus,1,75009,Raj,23,Noida,Cash,3,Realme Narzo 60
+187,13-04-2023,Thursday,Samsung,8,14556,Nandini,56,Jaipur,Net Banking,1,Samsung Galaxy Note 20
+188,03-05-2023,Wednesday,Samsung,4,77029,Vivek,18,Delhi,Cash,4,iPhone 15
+189,05-03-2023,Sunday,Samsung,4,43560,Amit,29,Bangalore,Cash,5,Samsung Galaxy A54
+190,20-04-2023,Thursday,Samsung,5,61093,Ishika,27,Jaipur,Card,4,Samsung Galaxy A54
+191,27-04-2023,Thursday,Apple,8,48289,Abhishek,44,Ranchi,Net Banking,3,OnePlus Nord CE 3
+192,24-11-2023,Friday,Samsung,8,18645,Nishita,31,Surat,Net Banking,5,OnePlus 9R
+193,29-04-2023,Saturday,OnePlus,8,17113,Vikas,24,Guhwati,Cash,5,Xiaomi 11T
+194,18-12-2023,Monday,Xiaomi,5,32710,Diksha,59,Guhwati,Cash,2,Samsung Galaxy M34
+195,05-02-2023,Sunday,Apple,4,23492,Rohit,35,Noida,Card,2,Samsung Galaxy Z5
+196,28-08-2023,Monday,OnePlus,1,67350,Yash,41,Surat,Card,1,iPhone 13
+197,23-11-2023,Thursday,Samsung,9,25397,Mohit,46,Mumbai,Cash,5,OnePlus 11
+198,07-09-2023,Thursday,Samsung,8,22775,Chavi,39,Delhi,UPI,5,Xiaomi 11T
+199,02-12-2023,Saturday,OnePlus,5,75339,Ramesh,27,Chennai,Cash,5,Xiaomi Mi 10
+200,16-12-2023,Saturday,Realme,1,38635,Tanisha,19,Mumbai,UPI,4,Samsung Galaxy Z5
+201,21-08-2023,Monday,Samsung,4,24830,Tanisha,38,Jaipur,UPI,4,Samsung Galaxy Note 20
+202,02-10-2023,Monday,Xiaomi,2,58342,Abhishek,35,Gurugram,Card,5,Samsung Galaxy Note 20
+203,03-02-2023,Friday,Realme,1,24334,Neha,60,Noida,Card,5,Redmi Note 12
+204,16-02-2023,Thursday,OnePlus,2,68790,Chavi,27,Kolkata,Card,3,Samsung Galaxy S23
+205,15-02-2023,Wednesday,Samsung,7,64056,Om,19,Ranchi,Cash,5,OnePlus Nord CE 3
+206,11-09-2023,Monday,Realme,7,60478,Rohit,28,Surat,Card,2,iPhone 12
+207,19-01-2023,Thursday,OnePlus,2,70859,Mohit,25,Ranchi,Card,5,Realme C55
+208,05-01-2023,Thursday,Realme,6,49370,Manisha,26,Surat,Cash,3,Redmi Note 12
+209,14-08-2023,Monday,Apple,2,17125,Rahul,36,Surat,UPI,4,iPhone 15
+210,31-03-2023,Friday,Apple,5,78873,Mohit,22,Kolkata,Net Banking,5,iPhone 12
+211,08-07-2023,Saturday,OnePlus,3,27320,Tanmay,56,Pune,Cash,5,OnePlus Nord 2T
+212,24-09-2023,Sunday,Apple,1,25210,Priyanshu,41,Bangalore,Net Banking,4,Samsung Galaxy M34
+213,07-01-2023,Saturday,OnePlus,4,43134,Deepak,40,Ranchi,UPI,4,Realme 11
+214,21-12-2023,Thursday,Apple,1,70408,Rahul,21,Chennai,Net Banking,4,iPhone 13
+215,15-09-2023,Friday,Apple,4,51274,Rohit,40,Jaipur,Card,4,Redmi Note 12
+216,28-01-2023,Saturday,OnePlus,9,51228,Komal,29,Bhopal,Card,1,Redmi Note 12
+217,12-04-2023,Wednesday,Realme,5,53004,Aditya,36,Chennai,UPI,5,Samsung Galaxy Note 20
+218,26-08-2023,Saturday,OnePlus,2,11260,Rohit,26,Bhopal,Cash,5,Xiaomi 13
+219,31-07-2023,Monday,Samsung,7,35242,Sara,23,Bhopal,Card,4,Redmi Note 12
+220,19-08-2023,Saturday,Realme,8,48258,Himanshu,22,Surat,Net Banking,4,Redmi K50
+221,02-03-2023,Thursday,Realme,7,26319,Chavi,35,Delhi,Card,3,Realme GT 2
+222,10-02-2023,Friday,Xiaomi,7,52615,Raj,50,Noida,Net Banking,4,Samsung Galaxy M34
+223,01-03-2023,Wednesday,Xiaomi,1,63307,Rahul,18,Surat,Cash,3,Redmi K50
+224,22-12-2023,Friday,Samsung,6,34479,Rahul,27,Noida,Net Banking,1,iPhone 13
+225,13-02-2023,Monday,Apple,9,46366,Chavi,43,Pune,Cash,1,iPhone 13
+226,18-02-2023,Saturday,Xiaomi,8,40747,Ishika,43,Kolkata,Net Banking,5,OnePlus 10
+227,11-12-2023,Monday,Samsung,8,45315,Vikas,57,Ranchi,UPI,3,Samsung Galaxy M34
+228,13-07-2023,Thursday,Xiaomi,2,18487,Priya,60,Bangalore,Cash,5,iPhone 12
+229,08-07-2023,Saturday,Realme,1,50348,Gaurav,59,Guhwati,Card,5,OnePlus 11
+230,08-02-2023,Wednesday,Apple,5,72045,Ramesh,24,Bangalore,Net Banking,5,iPhone 15
+231,31-10-2023,Tuesday,Xiaomi,2,33829,Riya,47,Kolkata,Cash,2,Samsung Galaxy S23
+232,12-02-2023,Sunday,Xiaomi,5,77424,Aditya,39,Guhwati,UPI,5,Xiaomi 11T
+233,19-03-2023,Sunday,Realme,6,12943,Rohit,26,Bhopal,Card,5,Samsung Galaxy A54
+234,19-08-2023,Saturday,Xiaomi,8,30260,Riya,46,Kolkata,Card,5,OnePlus 10
+235,15-09-2023,Friday,OnePlus,4,76494,Om,40,Mumbai,Cash,4,OnePlus 10
+236,08-03-2023,Wednesday,Xiaomi,6,25189,Vishal,45,Mumbai,Cash,5,Samsung Galaxy Note 20
+237,30-08-2023,Wednesday,Realme,7,49658,Jiya,60,Delhi,Net Banking,1,Realme Narzo 60
+238,02-10-2023,Monday,Apple,5,38477,Rahul,22,Bangalore,Card,3,iPhone 15
+239,24-11-2023,Friday,Samsung,5,48600,Riya,49,Noida,Cash,5,iPhone 13
+240,07-05-2023,Sunday,Samsung,5,23577,Aditya,43,Bangalore,Card,5,Samsung Galaxy A54
+241,31-10-2023,Tuesday,Apple,9,34620,Komal,50,Ranchi,Net Banking,4,Samsung Galaxy Note 20
+242,10-03-2023,Friday,Xiaomi,3,41706,Himanshu,21,Delhi,UPI,4,OnePlus 11
+243,15-11-2023,Wednesday,OnePlus,8,44145,Ishika,53,Jaipur,Card,2,Xiaomi 13
+244,23-12-2023,Saturday,OnePlus,9,56916,Vishal,20,Ranchi,Cash,5,Samsung Galaxy S23
+245,12-02-2023,Sunday,Realme,8,26100,Tanmay,59,Gurugram,Cash,3,Samsung Galaxy Z5
+246,21-07-2023,Friday,Xiaomi,9,21261,Abhishek,32,Pune,UPI,4,iPhone 12
+247,24-08-2023,Thursday,Realme,5,18913,Vishal,29,Surat,Net Banking,5,Realme 11
+248,18-08-2023,Friday,Apple,9,30144,Deepak,28,Bhopal,Card,5,Samsung Galaxy Note 20
+249,21-03-2023,Tuesday,OnePlus,2,46828,Rahul,36,Ranchi,Card,3,Samsung Galaxy A54
+250,08-08-2023,Tuesday,Samsung,2,57542,Vivek,28,Pune,Net Banking,5,Redmi K50
+251,26-05-2023,Friday,Apple,5,61890,Riya,39,Jaipur,Net Banking,3,Redmi Note 12
+252,16-07-2023,Sunday,OnePlus,6,64275,Bhuvan,20,Noida,Net Banking,5,Samsung Galaxy M34
+253,03-09-2023,Sunday,Xiaomi,8,21670,Abhishek,37,Pune,UPI,3,Redmi Note 12
+254,07-09-2023,Thursday,OnePlus,9,40349,Komal,48,Gurugram,Net Banking,5,Redmi Note 12
+255,27-06-2023,Tuesday,Realme,2,44986,Manya,58,Delhi,UPI,5,Realme 11
+256,17-01-2023,Tuesday,Realme,3,70185,Uphaar,20,Surat,UPI,1,Redmi K50
+257,20-06-2023,Tuesday,Apple,4,41198,Chavi,58,Delhi,Cash,3,Samsung Galaxy Z5
+258,19-01-2023,Thursday,OnePlus,8,42479,Raj,55,Kolkata,Card,5,OnePlus 10
+259,10-05-2023,Wednesday,Samsung,4,32107,Pallavi,27,Chennai,Card,5,Samsung Galaxy Note 20
+260,21-11-2023,Tuesday,Apple,8,59415,Aditya,51,Pune,Cash,5,iPhone 15
+261,08-02-2023,Wednesday,OnePlus,6,40963,Bhuvan,38,Bhopal,Net Banking,5,Samsung Galaxy M34
+262,26-02-2023,Sunday,Apple,4,70329,Om,39,Pune,Net Banking,4,Samsung Galaxy M34
+263,16-01-2023,Monday,OnePlus,9,55667,Yash,57,Ranchi,Card,3,OnePlus 11
+264,09-08-2023,Wednesday,Apple,8,44273,Yash,34,Noida,Card,2,Realme 11
+265,29-03-2023,Wednesday,Realme,9,56909,Riya,37,Delhi,Net Banking,4,Redmi Note 12
+266,26-06-2023,Monday,Samsung,7,38410,Ramesh,37,Bangalore,Cash,2,Xiaomi 13
+267,06-12-2023,Wednesday,OnePlus,6,26529,Deepak,19,Mumbai,UPI,2,Redmi Note 12
+268,08-04-2023,Saturday,OnePlus,6,72496,Manya,59,Chennai,Card,3,Realme C55
+269,23-10-2023,Monday,Xiaomi,2,73491,Pallavi,58,Delhi,Card,4,OnePlus 9R
+270,05-11-2023,Sunday,Apple,2,54758,Tanisha,51,Kolkata,Cash,5,Realme GT 2
+271,07-09-2023,Thursday,Xiaomi,1,74738,Mohit,53,Ranchi,Cash,1,Samsung Galaxy Note 20
+272,24-05-2023,Wednesday,Samsung,2,50553,Om,57,Jaipur,Card,1,Xiaomi 13
+273,17-12-2023,Sunday,Xiaomi,8,40142,Bhuvan,60,Surat,Cash,5,Xiaomi 13
+274,18-02-2023,Saturday,OnePlus,3,45357,Abhishek,59,Noida,Cash,3,OnePlus Nord CE 3
+275,09-05-2023,Tuesday,Samsung,1,16515,Raj,52,Gurugram,Card,5,iPhone 12
+276,17-05-2023,Wednesday,OnePlus,5,38994,Neha,22,Jaipur,Net Banking,5,Redmi K50
+277,09-07-2023,Sunday,Samsung,7,19025,Vivek,38,Chennai,Net Banking,5,Realme GT 2
+278,17-01-2023,Tuesday,Apple,5,50765,Aditya,53,Chennai,UPI,5,OnePlus 10
+279,28-01-2023,Saturday,OnePlus,3,66736,Ramesh,46,Delhi,Card,5,iPhone 15
+280,22-01-2023,Sunday,OnePlus,8,21390,Manya,44,Pune,Net Banking,3,Xiaomi 13
+281,13-10-2023,Friday,Apple,2,23252,Pranav,32,Delhi,UPI,5,iPhone 13
+282,19-04-2023,Wednesday,Samsung,1,21243,Raj,20,Kolkata,Card,5,Samsung Galaxy A54
+283,01-07-2023,Saturday,Apple,5,20339,Tanisha,41,Surat,UPI,5,OnePlus Nord 2T
+284,06-10-2023,Friday,OnePlus,1,62706,Priyanshu,18,Jaipur,Net Banking,5,Redmi Note 12
+285,18-07-2023,Tuesday,Apple,6,73643,Chavi,24,Gurugram,UPI,5,OnePlus Nord 2T
+286,13-10-2023,Friday,Realme,2,63757,Riya,44,Mumbai,Card,2,Samsung Galaxy A54
+287,07-11-2023,Tuesday,Xiaomi,7,44372,Deepak,50,Noida,Card,5,Samsung Galaxy S23
+288,26-11-2023,Sunday,Realme,3,37821,Pallavi,28,Surat,Net Banking,2,Xiaomi 11T
+289,02-05-2023,Tuesday,Realme,8,34682,Vishal,25,Mumbai,Net Banking,5,Xiaomi 11T
+290,12-01-2023,Thursday,Xiaomi,4,10618,Vishal,57,Bangalore,Net Banking,1,Redmi Note 12
+291,25-01-2023,Wednesday,Realme,6,37989,Vivek,41,Delhi,Card,5,Xiaomi 13
+292,26-01-2023,Thursday,OnePlus,1,67748,Priya,27,Ranchi,Cash,4,Redmi Note 12
+293,14-08-2023,Monday,Samsung,4,21222,Vikas,48,Bhopal,Card,1,Redmi Note 12
+294,09-12-2023,Saturday,Xiaomi,1,30921,Neha,37,Jaipur,Card,3,iPhone 12
+295,28-03-2023,Tuesday,Apple,9,74756,Vishal,45,Bangalore,Cash,3,Xiaomi 11T
+296,28-10-2023,Saturday,Apple,3,26214,Rahul,48,Surat,Net Banking,3,OnePlus 9R
+297,11-09-2023,Monday,OnePlus,1,79551,Priyanshu,43,Bhopal,Net Banking,2,Xiaomi Mi 10
+298,21-06-2023,Wednesday,Apple,1,72793,Priya,24,Noida,UPI,4,Realme 11
+299,08-11-2023,Wednesday,Apple,8,56154,Deepak,18,Ranchi,Cash,1,Realme Narzo 60
+300,13-07-2023,Thursday,Xiaomi,6,27850,Ishika,19,Bhopal,Card,5,Samsung Galaxy M34
+301,20-06-2023,Tuesday,OnePlus,7,58403,Priyanshu,51,Noida,UPI,5,Xiaomi 11T
+302,15-01-2023,Sunday,Apple,3,50067,Vikas,57,Ranchi,Card,3,Xiaomi 13
+303,13-02-2023,Monday,Realme,4,66991,Priya,43,Chennai,Card,5,Samsung Galaxy S23
+304,07-11-2023,Tuesday,Apple,2,24182,Vikas,35,Ranchi,Card,5,OnePlus 10
+305,04-12-2023,Monday,Samsung,7,65952,Raj,26,Chennai,UPI,4,iPhone 12
+306,24-11-2023,Friday,Xiaomi,1,43425,Abhishek,22,Bhopal,Cash,5,Realme GT 2
+307,13-03-2023,Monday,Apple,5,31952,Nishita,37,Kolkata,Card,2,OnePlus Nord CE 3
+308,11-03-2023,Saturday,Apple,4,26558,Gaurav,47,Chennai,Net Banking,5,Samsung Galaxy M34
+309,28-04-2023,Friday,Apple,8,36616,Raj,39,Mumbai,Card,5,OnePlus 10
+310,18-03-2023,Saturday,Apple,9,17453,Vivek,35,Bangalore,Card,2,Realme GT 2
+311,23-09-2023,Saturday,Samsung,1,53445,Lokesh,49,Bhopal,Cash,3,iPhone 11
+312,28-09-2023,Thursday,Samsung,6,20038,Priya,48,Gurugram,Cash,4,OnePlus 10
+313,25-01-2023,Wednesday,Realme,5,28571,Uphaar,39,Delhi,Net Banking,4,Samsung Galaxy M34
+314,27-09-2023,Wednesday,Xiaomi,8,52988,Vishal,22,Chennai,Card,3,OnePlus 10
+315,21-09-2023,Thursday,OnePlus,3,37122,Jiya,32,Ranchi,Net Banking,5,OnePlus 11
+316,13-06-2023,Tuesday,Samsung,4,41914,Pallavi,59,Noida,Card,2,Redmi K50
+317,17-06-2023,Saturday,OnePlus,9,71903,Sumit,48,Bhopal,UPI,4,OnePlus 10
+318,13-01-2023,Friday,Apple,6,20167,Bhuvan,25,Bangalore,Net Banking,2,Realme GT Neo 3
+319,02-02-2023,Thursday,Samsung,2,22905,Bhuvan,48,Gurugram,Card,3,Redmi Note 12
+320,25-09-2023,Monday,Apple,3,27488,Ishika,35,Delhi,Cash,4,iPhone 11
+321,13-07-2023,Thursday,Apple,7,70897,Sumit,33,Gurugram,Cash,5,Xiaomi Mi 10
+322,18-11-2023,Saturday,Xiaomi,6,73897,Manisha,41,Chennai,Net Banking,3,OnePlus 9R
+323,24-08-2023,Thursday,Realme,6,48979,Sara,50,Noida,Card,4,Realme 11
+324,09-10-2023,Monday,Samsung,8,31166,Tanisha,19,Surat,Cash,2,Realme Narzo 60
+325,05-03-2023,Sunday,Xiaomi,9,71083,Priya,26,Gurugram,Card,2,Xiaomi 11T
+326,25-12-2023,Monday,OnePlus,2,34218,Priyanshu,44,Bhopal,UPI,3,iPhone 13
+327,19-05-2023,Friday,OnePlus,5,43891,Tanmay,50,Kolkata,Net Banking,1,iPhone 13
+328,04-10-2023,Wednesday,Samsung,6,31686,Vivek,28,Delhi,UPI,4,Xiaomi Mi 10
+329,03-06-2023,Saturday,Xiaomi,5,67994,Chavi,24,Ranchi,UPI,4,OnePlus Nord CE 3
+330,19-03-2023,Sunday,Apple,7,17279,Raj,52,Delhi,UPI,4,iPhone 11
+331,03-08-2023,Thursday,Realme,2,10869,Yash,57,Mumbai,Card,5,iPhone 13
+332,12-11-2023,Sunday,Realme,2,11601,Vivek,23,Chennai,Card,5,OnePlus Nord 2T
+333,06-09-2023,Wednesday,Apple,7,31840,Aditya,48,Ranchi,UPI,1,Samsung Galaxy M34
+334,29-09-2023,Friday,Realme,8,71537,Yash,25,Chennai,Net Banking,1,OnePlus 11
+335,02-08-2023,Wednesday,Xiaomi,7,47069,Raj,44,Bhopal,Cash,5,Redmi K50
+336,22-11-2023,Wednesday,OnePlus,5,56176,Sara,43,Bhopal,Cash,5,Xiaomi 11T
+337,15-02-2023,Wednesday,Apple,4,33195,Ishika,54,Guhwati,UPI,3,Redmi K50
+338,27-02-2023,Monday,Xiaomi,7,52091,Ramesh,49,Gurugram,Cash,4,Realme Narzo 60
+339,23-07-2023,Sunday,Samsung,3,22339,Ramesh,37,Bangalore,Cash,4,Realme GT 2
+340,23-05-2023,Tuesday,Apple,1,27913,Amit,56,Noida,Net Banking,5,Realme 11
+341,03-07-2023,Monday,Xiaomi,7,11340,Bhuvan,24,Noida,UPI,1,iPhone 13
+342,15-04-2023,Saturday,Apple,7,55509,Mohit,23,Pune,Cash,4,Redmi K50
+343,02-10-2023,Monday,Xiaomi,2,29856,Nandini,42,Noida,Card,5,Redmi Note 12
+344,02-12-2023,Saturday,Apple,5,75812,Neha,40,Surat,Card,4,iPhone 15
+345,29-09-2023,Friday,Samsung,6,74108,Deepak,31,Bangalore,UPI,5,OnePlus Nord 2T
+346,08-06-2023,Thursday,OnePlus,6,41047,Vikas,58,Bhopal,UPI,5,Realme Narzo 60
+347,02-07-2023,Sunday,Apple,2,69557,Pallavi,28,Ranchi,UPI,4,iPhone 12
+348,05-04-2023,Wednesday,Samsung,1,67964,Nandini,31,Kolkata,Cash,5,OnePlus Nord CE 3
+349,06-06-2023,Tuesday,Xiaomi,9,14455,Raj,58,Ranchi,Net Banking,5,Samsung Galaxy M34
+350,27-01-2023,Friday,Xiaomi,5,30005,Himanshu,18,Noida,Net Banking,2,OnePlus Nord CE 3
+351,01-01-2023,Sunday,Samsung,7,23698,Tanisha,21,Chennai,Card,5,Xiaomi 13
+352,23-05-2023,Tuesday,OnePlus,2,40646,Raj,34,Chennai,Net Banking,5,Realme 11
+353,20-06-2023,Tuesday,Realme,3,51945,Aditya,51,Chennai,Net Banking,5,Realme GT Neo 3
+354,28-12-2023,Thursday,Xiaomi,2,41339,Komal,22,Surat,Card,2,Samsung Galaxy Note 20
+355,21-02-2023,Tuesday,Realme,1,71370,Gaurav,59,Bhopal,UPI,1,OnePlus 11
+356,01-10-2023,Sunday,Apple,8,75776,Manya,20,Jaipur,UPI,5,iPhone 15
+357,01-06-2023,Thursday,Xiaomi,1,25747,Abhishek,21,Delhi,Card,4,iPhone 11
+358,08-05-2023,Monday,Xiaomi,2,29985,Sara,32,Bhopal,Cash,4,Samsung Galaxy M34
+359,17-04-2023,Monday,Samsung,2,50045,Manya,47,Delhi,Net Banking,5,OnePlus Nord 2T
+360,08-06-2023,Thursday,Realme,2,37270,Amit,46,Ranchi,Net Banking,5,Xiaomi 13
+361,09-11-2023,Thursday,Apple,6,37483,Nishita,37,Bangalore,Card,4,Realme GT Neo 3
+362,20-12-2023,Wednesday,Apple,5,65831,Vivek,39,Surat,UPI,5,iPhone 11
+363,28-09-2023,Thursday,Apple,6,50952,Uphaar,23,Ranchi,Cash,5,iPhone 12
+364,26-02-2023,Sunday,Apple,6,51494,Nandini,23,Chennai,Card,4,Xiaomi 13
+365,08-06-2023,Thursday,Samsung,7,35890,Uphaar,47,Noida,UPI,1,Redmi K50
+366,11-05-2023,Thursday,Xiaomi,8,50987,Riya,41,Chennai,Card,1,Samsung Galaxy M34
+367,31-03-2023,Friday,Samsung,2,67355,Aditya,46,Chennai,Card,5,Realme GT 2
+368,30-12-2023,Saturday,Realme,6,62485,Jiya,24,Surat,Cash,1,Realme GT Neo 3
+369,12-10-2023,Thursday,Xiaomi,2,28149,Nandini,49,Mumbai,Net Banking,5,iPhone 13
+370,16-12-2023,Saturday,OnePlus,1,46564,Priyanshu,49,Mumbai,Cash,5,Redmi Note 12
+371,09-07-2023,Sunday,Realme,1,51392,Yash,43,Chennai,Cash,2,Realme GT 2
+372,14-08-2023,Monday,Apple,2,19432,Diksha,28,Bangalore,Cash,4,iPhone 12
+373,26-07-2023,Wednesday,Samsung,1,30368,Raj,22,Delhi,Net Banking,1,Redmi Note 12
+374,13-07-2023,Thursday,Realme,2,16504,Bhuvan,42,Gurugram,Cash,5,OnePlus 10
+375,30-03-2023,Thursday,Realme,4,44761,Ramesh,43,Ranchi,Card,3,Samsung Galaxy Note 20
+376,14-04-2023,Friday,Apple,9,46496,Nishita,31,Noida,Net Banking,3,Samsung Galaxy M34
+377,01-05-2023,Monday,Xiaomi,3,39409,Mohit,47,Bhopal,Net Banking,2,OnePlus Nord 2T
+378,02-04-2023,Sunday,Samsung,2,75758,Sara,19,Guhwati,Net Banking,4,iPhone 12
+379,08-02-2023,Wednesday,Xiaomi,5,20954,Ishika,23,Pune,Cash,1,OnePlus 11
+380,19-06-2023,Monday,Realme,9,73310,Lokesh,40,Pune,Card,2,Samsung Galaxy S23
+381,28-07-2023,Friday,Samsung,8,60497,Ishika,44,Kolkata,UPI,5,OnePlus Nord 2T
+382,11-07-2023,Tuesday,OnePlus,4,69678,Lokesh,59,Noida,UPI,5,Samsung Galaxy Z5
+383,05-06-2023,Monday,Realme,4,49005,Aditya,50,Kolkata,Net Banking,5,OnePlus 11
+384,14-12-2023,Thursday,Apple,1,18041,Priya,58,Surat,UPI,5,Redmi K50
+385,09-04-2023,Sunday,OnePlus,1,31699,Vikas,46,Chennai,Net Banking,4,Redmi K50
+386,14-07-2023,Friday,Realme,4,14823,Diksha,45,Noida,Card,5,Realme 11
+387,02-07-2023,Sunday,Xiaomi,9,13754,Nishita,58,Jaipur,UPI,4,OnePlus 11
+388,11-10-2023,Wednesday,Apple,5,59676,Vishal,31,Pune,Card,2,Xiaomi 13
+389,29-05-2023,Monday,Samsung,7,74147,Neha,29,Pune,Cash,4,Samsung Galaxy S23
+390,05-02-2023,Sunday,Realme,7,59722,Lokesh,36,Jaipur,Cash,4,Realme GT Neo 3
+391,06-06-2023,Tuesday,Samsung,1,78115,Priya,30,Pune,Cash,5,iPhone 13
+392,06-03-2023,Monday,Samsung,7,37988,Aditya,40,Pune,UPI,3,iPhone 13
+393,25-01-2023,Wednesday,Samsung,4,17228,Amit,53,Gurugram,Cash,3,Realme 11
+394,21-02-2023,Tuesday,Xiaomi,1,29437,Lokesh,23,Noida,Card,4,iPhone 12
+395,03-07-2023,Monday,Apple,5,24489,Lokesh,59,Noida,UPI,4,OnePlus 10
+396,15-04-2023,Saturday,Samsung,6,59570,Pallavi,49,Noida,Cash,5,Realme 11
+397,29-04-2023,Saturday,OnePlus,7,10192,Jiya,25,Mumbai,UPI,5,iPhone 11
+398,27-10-2023,Friday,Xiaomi,9,49745,Uphaar,52,Ranchi,Cash,5,Redmi K50
+399,21-01-2023,Saturday,Apple,7,68187,Vivek,58,Gurugram,Cash,2,iPhone 13
+400,22-07-2023,Saturday,Realme,6,29185,Mohit,28,Mumbai,UPI,4,Realme Narzo 60
+401,02-05-2023,Tuesday,Realme,6,18171,Abhishek,58,Pune,Net Banking,4,iPhone 13
+402,20-12-2023,Wednesday,Xiaomi,7,36701,Bhuvan,45,Pune,Net Banking,4,Realme C55
+403,23-03-2023,Thursday,Realme,4,62777,Manisha,37,Kolkata,Cash,2,Samsung Galaxy S23
+404,06-06-2023,Tuesday,Samsung,7,41262,Khushi,46,Guhwati,UPI,4,iPhone 12
+405,29-03-2023,Wednesday,Samsung,2,23541,Priyanshu,39,Jaipur,Net Banking,5,Redmi Note 12
+406,02-05-2023,Tuesday,Samsung,7,24977,Aditya,51,Delhi,Card,2,Xiaomi 13
+407,23-12-2023,Saturday,Realme,2,61630,Sara,40,Noida,Card,3,iPhone 13
+408,28-01-2023,Saturday,Samsung,6,24861,Lokesh,28,Mumbai,Card,4,iPhone 13
+409,28-03-2023,Tuesday,Xiaomi,8,73568,Pranav,39,Surat,UPI,3,Samsung Galaxy Z5
+410,12-04-2023,Wednesday,Realme,1,12833,Pallavi,26,Kolkata,Card,3,Realme GT 2
+411,27-10-2023,Friday,Apple,1,73180,Mohit,42,Kolkata,Net Banking,2,iPhone 12
+412,14-11-2023,Tuesday,Samsung,6,20205,Nishita,20,Bhopal,Cash,5,Samsung Galaxy Note 20
+413,26-10-2023,Thursday,Samsung,7,44010,Vishal,27,Jaipur,Card,5,iPhone 13
+414,07-02-2023,Tuesday,OnePlus,3,44827,Nandini,60,Pune,Net Banking,5,Samsung Galaxy Z5
+415,17-02-2023,Friday,Samsung,3,77379,Rohit,44,Chennai,Card,3,Redmi K50
+416,07-01-2023,Saturday,Realme,6,50678,Amit,47,Ranchi,Card,2,Realme C55
+417,22-04-2023,Saturday,Xiaomi,5,32658,Priya,28,Gurugram,UPI,4,Xiaomi Mi 10
+418,22-01-2023,Sunday,Xiaomi,8,62049,Abhishek,25,Bhopal,Cash,5,Realme Narzo 60
+419,23-09-2023,Saturday,OnePlus,9,15365,Nandini,36,Guhwati,Cash,4,Samsung Galaxy S23
+420,07-09-2023,Thursday,Samsung,8,13727,Diksha,32,Guhwati,Cash,5,Xiaomi 11T
+421,15-10-2023,Sunday,OnePlus,4,53795,Uphaar,29,Mumbai,Card,5,Realme GT Neo 3
+422,04-10-2023,Wednesday,OnePlus,5,14268,Raj,39,Surat,Net Banking,2,OnePlus 11
+423,16-02-2023,Thursday,Realme,4,64621,Bhuvan,18,Kolkata,UPI,2,Realme C55
+424,09-03-2023,Thursday,OnePlus,7,47795,Nandini,43,Jaipur,Net Banking,1,OnePlus 9R
+425,10-08-2023,Thursday,Samsung,1,23416,Uphaar,54,Jaipur,Net Banking,5,Samsung Galaxy A54
+426,17-11-2023,Friday,OnePlus,8,63127,Gaurav,42,Mumbai,Card,5,Xiaomi 13
+427,06-02-2023,Monday,OnePlus,1,21787,Deepak,55,Surat,Cash,4,OnePlus Nord 2T
+428,05-09-2023,Tuesday,Apple,2,24520,Nandini,30,Pune,Net Banking,4,Samsung Galaxy Note 20
+429,26-11-2023,Sunday,Apple,3,54880,Pallavi,48,Kolkata,UPI,3,Realme 11
+430,18-05-2023,Thursday,Xiaomi,3,21131,Vikas,50,Ranchi,Card,5,Realme GT Neo 3
+431,19-12-2023,Tuesday,Realme,9,19597,Mohit,38,Delhi,Net Banking,4,Samsung Galaxy M34
+432,29-06-2023,Thursday,OnePlus,9,37937,Vishal,47,Mumbai,Cash,4,OnePlus 11
+433,22-12-2023,Friday,Apple,4,72658,Ishika,48,Bangalore,Card,5,OnePlus 9R
+434,27-09-2023,Wednesday,OnePlus,8,43605,Mohit,29,Pune,Cash,5,iPhone 13
+435,29-04-2023,Saturday,Samsung,9,56242,Gaurav,60,Noida,Net Banking,2,Xiaomi 13
+436,13-08-2023,Sunday,OnePlus,8,22880,Jiya,51,Gurugram,Net Banking,2,Samsung Galaxy M34
+437,17-08-2023,Thursday,Samsung,1,34979,Rohit,26,Gurugram,Net Banking,4,Realme C55
+438,04-12-2023,Monday,Realme,4,15127,Chavi,25,Mumbai,UPI,2,OnePlus 11
+439,24-08-2023,Thursday,Samsung,4,64901,Deepak,49,Ranchi,UPI,5,OnePlus 9R
+440,25-03-2023,Saturday,Xiaomi,2,15446,Neha,57,Gurugram,UPI,5,Samsung Galaxy Z5
+441,12-12-2023,Tuesday,OnePlus,7,44007,Raj,40,Delhi,Cash,2,Redmi K50
+442,26-05-2023,Friday,Apple,8,30356,Raj,38,Ranchi,Card,5,Xiaomi 13
+443,03-10-2023,Tuesday,Xiaomi,8,29981,Neha,46,Bhopal,Card,4,Xiaomi 11T
+444,16-06-2023,Friday,Realme,1,31108,Jiya,37,Mumbai,Cash,5,Samsung Galaxy M34
+445,30-05-2023,Tuesday,Apple,6,57830,Gaurav,56,Pune,Card,4,OnePlus 9R
+446,16-09-2023,Saturday,Samsung,9,10400,Ramesh,52,Kolkata,Card,5,Samsung Galaxy M34
+447,16-05-2023,Tuesday,Samsung,8,14681,Sumit,41,Noida,UPI,5,Xiaomi 13
+448,22-10-2023,Sunday,OnePlus,1,43047,Vivek,55,Surat,Net Banking,4,Realme GT Neo 3
+449,14-05-2023,Sunday,Samsung,7,14816,Vikas,20,Surat,Cash,3,Samsung Galaxy S23
+450,14-01-2023,Saturday,Samsung,8,33949,Ramesh,39,Jaipur,Card,3,Samsung Galaxy Note 20
+451,01-11-2023,Wednesday,OnePlus,8,15095,Ishika,49,Jaipur,UPI,4,iPhone 11
+452,29-06-2023,Thursday,Realme,5,54424,Vivek,36,Mumbai,Card,4,Redmi Note 12
+453,22-12-2023,Friday,OnePlus,3,17744,Diksha,54,Bangalore,Cash,3,iPhone 13
+454,20-03-2023,Monday,Samsung,2,17876,Ramesh,41,Noida,Net Banking,3,iPhone 11
+455,18-07-2023,Tuesday,Realme,9,53842,Sumit,19,Delhi,Card,4,Samsung Galaxy M34
+456,13-04-2023,Thursday,Realme,1,34325,Ramesh,34,Pune,UPI,2,Realme Narzo 60
+457,01-04-2023,Saturday,Realme,6,12832,Himanshu,22,Kolkata,Cash,3,OnePlus 10
+458,28-12-2023,Thursday,Realme,4,60954,Nishita,24,Delhi,Card,4,iPhone 11
+459,18-03-2023,Saturday,OnePlus,8,53008,Gaurav,43,Pune,Net Banking,4,iPhone 11
+460,28-07-2023,Friday,Xiaomi,6,68827,Uphaar,26,Ranchi,Net Banking,4,OnePlus 10
+461,22-07-2023,Saturday,OnePlus,4,30617,Nishita,59,Mumbai,Card,2,Realme GT Neo 3
+462,30-12-2023,Saturday,OnePlus,5,23133,Manya,58,Pune,Card,3,Xiaomi Mi 10
+463,01-09-2023,Friday,Realme,6,64598,Komal,60,Pune,Net Banking,3,OnePlus 9R
+464,05-08-2023,Saturday,Apple,8,44580,Pallavi,20,Surat,Net Banking,3,Realme 11
+465,13-06-2023,Tuesday,OnePlus,2,55862,Deepak,29,Ranchi,Cash,3,iPhone 15
+466,28-10-2023,Saturday,Apple,4,33638,Priya,26,Noida,Card,3,Realme Narzo 60
+467,09-08-2023,Wednesday,Xiaomi,2,36590,Raj,25,Surat,Net Banking,4,iPhone 11
+468,13-12-2023,Wednesday,OnePlus,4,59793,Pallavi,41,Chennai,Card,3,iPhone 12
+469,08-11-2023,Wednesday,Xiaomi,3,72499,Diksha,18,Chennai,UPI,5,Realme 11
+470,09-08-2023,Wednesday,Samsung,9,64587,Abhishek,38,Noida,Net Banking,4,Samsung Galaxy Z5
+471,11-12-2023,Monday,Realme,5,10135,Vishal,23,Guhwati,Net Banking,4,Xiaomi 13
+472,15-09-2023,Friday,OnePlus,3,76761,Komal,58,Surat,UPI,4,OnePlus Nord CE 3
+473,02-07-2023,Sunday,Samsung,9,22842,Sumit,47,Guhwati,Card,5,iPhone 13
+474,11-07-2023,Tuesday,Xiaomi,1,30588,Priyanshu,60,Pune,Card,5,Samsung Galaxy A54
+475,31-08-2023,Thursday,Samsung,6,31558,Amit,45,Surat,Net Banking,2,Realme GT Neo 3
+476,19-05-2023,Friday,Samsung,9,11595,Tanmay,40,Bangalore,UPI,5,iPhone 12
+477,04-03-2023,Saturday,OnePlus,5,45627,Yash,46,Guhwati,UPI,5,Xiaomi 13
+478,02-07-2023,Sunday,OnePlus,7,75852,Himanshu,49,Bangalore,UPI,1,Realme GT Neo 3
+479,08-03-2023,Wednesday,Apple,4,45002,Sumit,55,Gurugram,Card,4,Xiaomi Mi 10
+480,13-02-2023,Monday,Realme,6,53674,Manisha,42,Guhwati,Net Banking,4,Xiaomi 11T
+481,05-07-2023,Wednesday,Samsung,2,18372,Manya,33,Gurugram,Cash,4,Samsung Galaxy A54
+482,24-05-2023,Wednesday,Apple,4,17991,Rahul,52,Gurugram,Cash,4,Realme GT Neo 3
+483,14-12-2023,Thursday,Realme,5,53353,Diksha,53,Chennai,Cash,4,OnePlus 10
+484,22-02-2023,Wednesday,Xiaomi,3,54704,Priyanshu,32,Jaipur,Net Banking,2,Xiaomi 13
+485,03-01-2023,Tuesday,Realme,3,78364,Deepak,26,Pune,Net Banking,4,Xiaomi 11T
+486,10-12-2023,Sunday,Samsung,9,70098,Tanisha,48,Pune,Card,1,iPhone 11
+487,04-12-2023,Monday,Xiaomi,1,33455,Rohit,54,Chennai,Net Banking,5,Redmi Note 12
+488,08-12-2023,Friday,OnePlus,3,13819,Mohit,41,Delhi,Card,2,Samsung Galaxy A54
+489,02-01-2023,Monday,Samsung,3,77319,Om,58,Surat,Card,4,iPhone 15
+490,31-10-2023,Tuesday,Samsung,9,30019,Tanmay,20,Gurugram,Net Banking,4,Redmi Note 12
+491,04-09-2023,Monday,Samsung,5,78057,Rohit,35,Bangalore,Net Banking,5,Samsung Galaxy Note 20
+492,28-01-2023,Saturday,Apple,5,58259,Deepak,31,Surat,UPI,3,Samsung Galaxy Note 20
+493,06-01-2023,Friday,Apple,5,78291,Abhishek,18,Delhi,Cash,4,Realme GT Neo 3
+494,20-11-2023,Monday,Samsung,5,63440,Neha,45,Bhopal,Net Banking,4,Realme Narzo 60
+495,17-08-2023,Thursday,Samsung,2,20043,Tanisha,41,Mumbai,Cash,5,Xiaomi Mi 10
+496,16-10-2023,Monday,OnePlus,8,44849,Vishal,27,Noida,Net Banking,5,Realme Narzo 60
+497,12-01-2023,Thursday,Xiaomi,9,73432,Gaurav,59,Ranchi,Card,5,Realme C55
+498,14-08-2023,Monday,Realme,9,57570,Tanisha,22,Ranchi,Cash,5,iPhone 11
+499,30-12-2023,Saturday,Xiaomi,1,76042,Priyanshu,27,Jaipur,Cash,2,iPhone 15
+500,14-11-2023,Tuesday,Samsung,7,69793,Ramesh,40,Bhopal,Net Banking,5,Samsung Galaxy A54
+501,07-05-2023,Sunday,Samsung,4,34883,Nishita,35,Pune,Net Banking,2,iPhone 11
+502,27-03-2023,Monday,Realme,6,45927,Rohit,45,Jaipur,Cash,4,Samsung Galaxy Note 20
+503,27-07-2023,Thursday,Apple,1,16797,Nandini,55,Pune,UPI,5,Xiaomi 13
+504,21-05-2023,Sunday,OnePlus,8,47884,Jiya,52,Bangalore,Cash,2,OnePlus 9R
+505,04-02-2023,Saturday,OnePlus,4,57737,Aditya,38,Noida,Cash,3,Xiaomi Mi 10
+506,28-10-2023,Saturday,Samsung,9,66191,Rahul,33,Chennai,Cash,5,Realme C55
+507,18-07-2023,Tuesday,Realme,9,11154,Rohit,53,Delhi,Card,4,Redmi K50
+508,04-09-2023,Monday,Apple,9,32530,Tanmay,39,Ranchi,Cash,4,OnePlus 11
+509,21-05-2023,Sunday,Samsung,3,44416,Vikas,23,Mumbai,UPI,5,Xiaomi Mi 10
+510,15-02-2023,Wednesday,OnePlus,2,25741,Diksha,34,Mumbai,Net Banking,5,Samsung Galaxy Note 20
+511,12-08-2023,Saturday,Realme,3,40357,Vishal,43,Gurugram,Net Banking,2,OnePlus Nord CE 3
+512,07-08-2023,Monday,Apple,7,62938,Sumit,31,Delhi,Card,5,Realme Narzo 60
+513,22-07-2023,Saturday,OnePlus,2,27257,Himanshu,26,Gurugram,Net Banking,2,Samsung Galaxy Z5
+514,26-01-2023,Thursday,Samsung,4,24627,Vikas,43,Guhwati,Net Banking,5,Samsung Galaxy Z5
+515,25-12-2023,Monday,Samsung,7,21224,Rohit,23,Chennai,UPI,3,iPhone 15
+516,14-11-2023,Tuesday,OnePlus,6,66614,Manisha,23,Kolkata,Net Banking,4,OnePlus 9R
+517,13-04-2023,Thursday,Xiaomi,2,75900,Tanmay,50,Delhi,Net Banking,5,OnePlus Nord CE 3
+518,21-12-2023,Thursday,Samsung,4,56622,Sara,39,Jaipur,Net Banking,4,OnePlus 11
+519,07-04-2023,Friday,Apple,3,54707,Gaurav,40,Bangalore,Card,4,OnePlus 11
+520,10-07-2023,Monday,Apple,2,23220,Lokesh,20,Gurugram,Net Banking,4,Xiaomi 11T
+521,03-10-2023,Tuesday,Apple,3,23932,Yash,21,Bangalore,Cash,4,iPhone 12
+522,09-12-2023,Saturday,Xiaomi,2,59527,Deepak,32,Surat,UPI,1,Realme GT Neo 3
+523,04-07-2023,Tuesday,Realme,7,58274,Lokesh,59,Bhopal,Cash,5,Samsung Galaxy S23
+524,04-07-2023,Tuesday,Samsung,9,69897,Ishika,44,Ranchi,Card,4,Realme 11
+525,23-10-2023,Monday,OnePlus,5,67246,Tanisha,56,Kolkata,Net Banking,4,Redmi K50
+526,07-05-2023,Sunday,Apple,9,43194,Mohit,21,Gurugram,Net Banking,2,Redmi K50
+527,19-07-2023,Wednesday,Realme,7,56987,Vikas,38,Pune,Net Banking,4,OnePlus 11
+528,29-12-2023,Friday,Xiaomi,4,16732,Chavi,52,Noida,UPI,1,OnePlus 10
+529,06-08-2023,Sunday,Apple,2,20079,Rahul,26,Jaipur,UPI,5,OnePlus 11
+530,28-08-2023,Monday,OnePlus,1,61435,Priya,51,Kolkata,UPI,5,OnePlus 10
+531,24-01-2023,Tuesday,Samsung,9,74681,Aditya,54,Delhi,Net Banking,3,Realme GT 2
+532,23-11-2023,Thursday,Xiaomi,6,34045,Manya,47,Bhopal,Card,2,iPhone 13
+533,02-05-2023,Tuesday,Samsung,6,66101,Lokesh,26,Delhi,Net Banking,3,OnePlus 11
+534,21-07-2023,Friday,Apple,6,48311,Komal,21,Chennai,Cash,1,Realme GT 2
+535,26-07-2023,Wednesday,Xiaomi,1,21868,Om,22,Kolkata,Card,5,Samsung Galaxy A54
+536,13-09-2023,Wednesday,Xiaomi,7,73635,Manya,32,Ranchi,Card,1,Xiaomi 13
+537,15-09-2023,Friday,Realme,4,23676,Mohit,44,Gurugram,UPI,2,OnePlus Nord CE 3
+538,24-12-2023,Sunday,Realme,4,23183,Nishita,43,Jaipur,Net Banking,5,OnePlus 9R
+539,19-08-2023,Saturday,Samsung,2,64538,Aditya,26,Guhwati,Card,2,Samsung Galaxy M34
+540,24-06-2023,Saturday,Samsung,7,70037,Nandini,29,Mumbai,Net Banking,3,iPhone 13
+541,05-07-2023,Wednesday,OnePlus,1,55725,Manisha,33,Ranchi,Net Banking,5,Redmi Note 12
+542,09-07-2023,Sunday,Apple,3,63420,Jiya,44,Bangalore,UPI,2,Samsung Galaxy Z5
+543,01-12-2023,Friday,Xiaomi,6,20913,Priya,30,Noida,Cash,3,Realme C55
+544,03-07-2023,Monday,Samsung,7,67509,Vishal,33,Ranchi,Net Banking,4,OnePlus Nord 2T
+545,16-12-2023,Saturday,Realme,8,22279,Rohit,60,Bangalore,Cash,2,Xiaomi Mi 10
+546,11-03-2023,Saturday,Xiaomi,4,78261,Khushi,51,Mumbai,Card,5,Xiaomi 11T
+547,26-12-2023,Tuesday,Xiaomi,3,67559,Vivek,43,Ranchi,UPI,3,Xiaomi 13
+548,05-08-2023,Saturday,Realme,4,53226,Nishita,49,Surat,Card,5,Realme Narzo 60
+549,24-09-2023,Sunday,Realme,3,65863,Manisha,43,Surat,Cash,2,OnePlus 11
+550,15-06-2023,Thursday,Realme,3,55033,Khushi,43,Ranchi,Net Banking,3,Samsung Galaxy S23
+551,17-07-2023,Monday,OnePlus,6,56909,Manisha,58,Guhwati,Net Banking,5,Samsung Galaxy S23
+552,18-07-2023,Tuesday,Samsung,2,66428,Nishita,38,Kolkata,Net Banking,4,Redmi K50
+553,04-10-2023,Wednesday,Samsung,4,70863,Nandini,36,Delhi,Card,5,iPhone 15
+554,09-03-2023,Thursday,OnePlus,9,39386,Tanisha,53,Surat,UPI,4,Realme Narzo 60
+555,30-08-2023,Wednesday,Xiaomi,3,39516,Nishita,22,Bhopal,Cash,4,Samsung Galaxy M34
+556,10-04-2023,Monday,Realme,6,25159,Sara,26,Bhopal,Card,4,OnePlus 9R
+557,16-09-2023,Saturday,Xiaomi,2,21740,Gaurav,51,Pune,Cash,3,iPhone 15
+558,28-11-2023,Tuesday,Realme,6,54310,Yash,36,Delhi,Cash,5,Realme C55
+559,23-10-2023,Monday,Samsung,7,30538,Gaurav,19,Bangalore,Net Banking,2,OnePlus Nord 2T
+560,20-01-2023,Friday,Apple,8,56651,Lokesh,33,Delhi,Net Banking,5,Realme C55
+561,28-07-2023,Friday,Xiaomi,1,12782,Ramesh,40,Kolkata,Card,2,OnePlus Nord CE 3
+562,09-08-2023,Wednesday,Samsung,1,78117,Khushi,57,Mumbai,UPI,3,OnePlus 10
+563,22-08-2023,Tuesday,Realme,2,48615,Yash,29,Surat,Cash,2,Realme Narzo 60
+564,19-01-2023,Thursday,Xiaomi,8,20003,Deepak,42,Chennai,UPI,3,Realme 11
+565,04-06-2023,Sunday,Realme,4,71971,Himanshu,39,Ranchi,Cash,2,Samsung Galaxy S23
+566,27-04-2023,Thursday,OnePlus,2,12797,Neha,55,Mumbai,Card,4,Realme GT Neo 3
+567,02-07-2023,Sunday,Samsung,3,12706,Ishika,57,Jaipur,Cash,4,OnePlus 9R
+568,26-01-2023,Thursday,OnePlus,4,69864,Neha,22,Bangalore,Net Banking,5,OnePlus Nord CE 3
+569,01-07-2023,Saturday,OnePlus,4,54281,Ramesh,39,Pune,UPI,4,Samsung Galaxy Z5
+570,08-10-2023,Sunday,Apple,9,44971,Himanshu,48,Gurugram,Cash,3,iPhone 15
+571,06-09-2023,Wednesday,Realme,9,54352,Riya,36,Surat,Cash,3,Redmi Note 12
+572,29-08-2023,Tuesday,Apple,1,51281,Mohit,51,Guhwati,Cash,4,Xiaomi 11T
+573,06-09-2023,Wednesday,Xiaomi,8,59597,Riya,25,Kolkata,Net Banking,4,Redmi K50
+574,02-08-2023,Wednesday,Realme,9,62323,Nishita,58,Pune,Net Banking,3,Realme GT Neo 3
+575,22-06-2023,Thursday,Samsung,8,12710,Diksha,18,Bhopal,Net Banking,5,Samsung Galaxy Z5
+576,04-03-2023,Saturday,Samsung,7,49216,Pranav,34,Ranchi,Card,5,Redmi K50
+577,17-07-2023,Monday,OnePlus,4,68272,Deepak,28,Mumbai,UPI,4,iPhone 13
+578,19-08-2023,Saturday,Realme,2,46386,Sumit,51,Pune,Net Banking,2,Realme 11
+579,16-02-2023,Thursday,OnePlus,8,75850,Manisha,47,Delhi,Cash,5,Xiaomi Mi 10
+580,10-02-2023,Friday,Realme,8,77669,Amit,44,Mumbai,UPI,4,Samsung Galaxy Note 20
+581,12-07-2023,Wednesday,Realme,6,41330,Ishika,26,Surat,Cash,5,OnePlus 11
+582,10-03-2023,Friday,Realme,9,39053,Jiya,55,Mumbai,Net Banking,1,Realme C55
+583,23-03-2023,Thursday,Apple,2,61061,Ramesh,33,Gurugram,Card,5,Samsung Galaxy A54
+584,19-04-2023,Wednesday,Realme,2,39043,Mohit,18,Mumbai,Cash,4,Realme Narzo 60
+585,13-01-2023,Friday,Realme,2,50722,Amit,27,Ranchi,UPI,3,Xiaomi 11T
+586,04-08-2023,Friday,Samsung,4,34219,Pallavi,46,Bhopal,Net Banking,2,Realme GT 2
+587,31-03-2023,Friday,Apple,3,18900,Nishita,42,Noida,UPI,4,iPhone 15
+588,23-12-2023,Saturday,OnePlus,4,42683,Uphaar,40,Noida,UPI,5,Samsung Galaxy S23
+589,12-06-2023,Monday,Xiaomi,7,29121,Rohit,55,Ranchi,Cash,5,OnePlus 11
+590,16-05-2023,Tuesday,Xiaomi,8,40538,Diksha,39,Bangalore,Card,3,Realme GT 2
+591,03-09-2023,Sunday,Apple,4,69043,Komal,24,Kolkata,Cash,5,Realme C55
+592,10-07-2023,Monday,Xiaomi,3,24725,Manisha,26,Chennai,Card,5,Samsung Galaxy Z5
+593,05-10-2023,Thursday,Apple,7,38816,Aditya,35,Ranchi,Net Banking,4,Realme C55
+594,08-05-2023,Monday,Xiaomi,2,44141,Priyanshu,35,Kolkata,Net Banking,3,Samsung Galaxy Note 20
+595,01-09-2023,Friday,Samsung,5,45912,Bhuvan,36,Surat,Card,2,OnePlus Nord CE 3
+596,13-07-2023,Thursday,Realme,1,73179,Vishal,46,Guhwati,Card,5,Samsung Galaxy M34
+597,17-02-2023,Friday,Samsung,9,55588,Komal,26,Delhi,UPI,3,Realme GT 2
+598,03-09-2023,Sunday,Samsung,4,73724,Manya,25,Bangalore,Net Banking,4,iPhone 15
+599,25-02-2023,Saturday,Apple,3,62589,Tanmay,23,Surat,Cash,3,OnePlus 10
+600,20-05-2023,Saturday,Realme,7,54077,Priya,49,Ranchi,UPI,5,iPhone 13
+601,09-01-2023,Monday,OnePlus,7,20054,Chavi,33,Bhopal,Cash,4,OnePlus 10
+602,21-02-2023,Tuesday,Xiaomi,1,42349,Deepak,29,Bangalore,UPI,5,OnePlus Nord CE 3
+603,13-06-2023,Tuesday,Apple,3,66809,Riya,44,Noida,Net Banking,4,Xiaomi 11T
+604,22-08-2023,Tuesday,OnePlus,6,35258,Neha,25,Pune,Cash,3,Xiaomi Mi 10
+605,20-06-2023,Tuesday,Realme,3,28289,Raj,22,Kolkata,UPI,4,Samsung Galaxy M34
+606,23-06-2023,Friday,Realme,1,68662,Raj,31,Bhopal,Card,4,OnePlus Nord 2T
+607,20-08-2023,Sunday,Apple,2,29615,Raj,55,Bangalore,Net Banking,1,iPhone 15
+608,23-07-2023,Sunday,Samsung,8,66734,Rohit,58,Ranchi,UPI,4,Realme GT Neo 3
+609,27-01-2023,Friday,Samsung,7,33126,Tanmay,46,Bangalore,Card,3,Realme Narzo 60
+610,06-11-2023,Monday,Apple,1,75086,Deepak,20,Surat,UPI,3,Samsung Galaxy A54
+611,16-06-2023,Friday,Xiaomi,1,11175,Priyanshu,18,Noida,UPI,5,OnePlus 11
+612,09-08-2023,Wednesday,Realme,7,63358,Pranav,55,Gurugram,UPI,5,Xiaomi 11T
+613,21-06-2023,Wednesday,Xiaomi,6,35425,Chavi,44,Guhwati,UPI,3,Xiaomi 11T
+614,10-06-2023,Saturday,Samsung,6,70179,Riya,44,Noida,Card,1,OnePlus Nord 2T
+615,07-05-2023,Sunday,Samsung,5,24682,Riya,26,Bangalore,Net Banking,2,Xiaomi 11T
+616,22-12-2023,Friday,Samsung,1,44532,Priya,23,Guhwati,Cash,2,Samsung Galaxy Z5
+617,03-01-2023,Tuesday,Samsung,8,39093,Abhishek,44,Kolkata,UPI,5,OnePlus Nord 2T
+618,14-07-2023,Friday,OnePlus,3,25630,Nandini,18,Gurugram,Card,3,Realme C55
+619,27-02-2023,Monday,Realme,1,58182,Himanshu,29,Noida,Card,5,Samsung Galaxy Note 20
+620,26-08-2023,Saturday,Realme,7,44318,Raj,27,Jaipur,Net Banking,4,OnePlus Nord 2T
+621,12-02-2023,Sunday,OnePlus,6,40203,Tanisha,50,Guhwati,Net Banking,4,Redmi Note 12
+622,07-03-2023,Tuesday,Samsung,5,42792,Sumit,55,Ranchi,Card,5,Redmi Note 12
+623,24-11-2023,Friday,Apple,3,60845,Sumit,20,Kolkata,UPI,3,Realme Narzo 60
+624,21-10-2023,Saturday,Samsung,1,44146,Nandini,55,Kolkata,UPI,4,Samsung Galaxy A54
+625,17-01-2023,Tuesday,Realme,4,44924,Gaurav,57,Surat,Cash,4,OnePlus 9R
+626,14-04-2023,Friday,Xiaomi,2,63889,Amit,18,Surat,Card,1,Xiaomi 13
+627,06-01-2023,Friday,Apple,9,43236,Yash,54,Surat,UPI,2,Xiaomi 11T
+628,03-06-2023,Saturday,Samsung,1,79976,Rohit,36,Surat,UPI,3,Realme Narzo 60
+629,04-10-2023,Wednesday,OnePlus,5,20655,Deepak,18,Ranchi,UPI,2,OnePlus 11
+630,09-02-2023,Thursday,Samsung,9,39223,Mohit,37,Noida,Card,1,OnePlus 10
+631,01-11-2023,Wednesday,Realme,1,57533,Bhuvan,27,Delhi,Net Banking,4,Xiaomi 11T
+632,06-08-2023,Sunday,Samsung,3,35846,Bhuvan,49,Mumbai,Cash,3,iPhone 15
+633,21-10-2023,Saturday,Samsung,8,68806,Priyanshu,40,Pune,Cash,1,OnePlus 10
+634,11-12-2023,Monday,Samsung,1,15034,Aditya,45,Gurugram,Card,3,iPhone 13
+635,08-05-2023,Monday,Realme,5,15282,Deepak,38,Mumbai,Net Banking,3,OnePlus 10
+636,27-09-2023,Wednesday,OnePlus,1,32897,Tanmay,52,Bhopal,UPI,5,iPhone 12
+637,26-01-2023,Thursday,Samsung,9,12656,Riya,29,Guhwati,UPI,4,Realme 11
+638,27-03-2023,Monday,Realme,8,76000,Aditya,50,Surat,Net Banking,5,Samsung Galaxy Z5
+639,15-08-2023,Tuesday,Apple,5,65955,Ramesh,28,Bhopal,Card,4,Realme C55
+640,09-02-2023,Thursday,Xiaomi,5,74465,Vikas,34,Ranchi,Card,1,Samsung Galaxy A54
+641,22-10-2023,Sunday,Xiaomi,2,79313,Chavi,39,Delhi,Net Banking,3,OnePlus Nord CE 3
+642,12-08-2023,Saturday,Realme,4,42846,Rahul,48,Chennai,UPI,5,Xiaomi 11T
+643,08-11-2023,Wednesday,Xiaomi,3,25063,Tanmay,50,Guhwati,Card,3,Realme C55
+644,12-05-2023,Friday,Apple,3,42376,Manisha,56,Surat,Card,3,Realme Narzo 60
+645,14-01-2023,Saturday,Realme,8,29561,Om,34,Surat,UPI,5,Samsung Galaxy Z5
+646,12-04-2023,Wednesday,OnePlus,7,23236,Raj,24,Ranchi,UPI,5,iPhone 13
+647,13-02-2023,Monday,Xiaomi,4,27442,Khushi,21,Surat,Net Banking,4,Xiaomi 11T
+648,30-01-2023,Monday,Realme,9,17712,Rahul,39,Pune,Cash,2,OnePlus Nord CE 3
+649,02-02-2023,Thursday,Xiaomi,8,21326,Rahul,44,Chennai,Card,5,Xiaomi 11T
+650,14-06-2023,Wednesday,Apple,7,16091,Nandini,18,Chennai,Cash,3,Redmi K50
+651,06-04-2023,Thursday,Xiaomi,7,14153,Priyanshu,35,Kolkata,Net Banking,4,Samsung Galaxy S23
+652,29-09-2023,Friday,Samsung,3,51790,Vishal,25,Kolkata,UPI,5,iPhone 15
+653,13-10-2023,Friday,Apple,1,42978,Deepak,47,Chennai,Card,5,Redmi K50
+654,13-09-2023,Wednesday,OnePlus,5,24991,Gaurav,18,Jaipur,Cash,5,Xiaomi 11T
+655,12-12-2023,Tuesday,OnePlus,1,62501,Manisha,22,Mumbai,Cash,4,Realme 11
+656,01-12-2023,Friday,OnePlus,7,16367,Manisha,23,Noida,Net Banking,4,iPhone 11
+657,25-09-2023,Monday,Xiaomi,5,36081,Aditya,25,Ranchi,Net Banking,4,Xiaomi 11T
+658,26-02-2023,Sunday,Samsung,9,59306,Vishal,53,Chennai,Cash,5,iPhone 12
+659,25-05-2023,Thursday,Realme,8,70688,Khushi,20,Bhopal,UPI,2,Samsung Galaxy A54
+660,19-08-2023,Saturday,Xiaomi,4,22092,Riya,48,Pune,Net Banking,3,Samsung Galaxy Z5
+661,19-08-2023,Saturday,Apple,6,18093,Himanshu,55,Guhwati,Net Banking,2,OnePlus 9R
+662,02-02-2023,Thursday,OnePlus,3,38090,Tanmay,55,Gurugram,UPI,4,Samsung Galaxy S23
+663,04-04-2023,Tuesday,Realme,8,69827,Vishal,45,Guhwati,Cash,1,Samsung Galaxy Note 20
+664,19-09-2023,Tuesday,OnePlus,7,48582,Vivek,58,Bangalore,Net Banking,3,Samsung Galaxy Z5
+665,09-07-2023,Sunday,Samsung,2,16807,Abhishek,21,Delhi,Net Banking,5,Realme 11
+666,24-08-2023,Thursday,Apple,8,20797,Riya,38,Chennai,Card,4,Realme GT 2
+667,01-11-2023,Wednesday,Apple,4,43990,Pranav,40,Ranchi,Card,1,OnePlus 9R
+668,19-01-2023,Thursday,Xiaomi,9,49876,Himanshu,60,Surat,Card,4,Realme GT 2
+669,24-06-2023,Saturday,Samsung,4,36983,Vishal,28,Mumbai,Card,5,Samsung Galaxy Note 20
+670,25-03-2023,Saturday,Apple,6,40201,Vivek,21,Guhwati,UPI,4,iPhone 11
+671,02-07-2023,Sunday,Realme,5,70704,Sumit,51,Chennai,UPI,1,Samsung Galaxy M34
+672,18-04-2023,Tuesday,Apple,5,66160,Jiya,26,Surat,Net Banking,5,Realme Narzo 60
+673,18-08-2023,Friday,OnePlus,7,10954,Aditya,54,Delhi,Cash,3,Samsung Galaxy Note 20
+674,09-11-2023,Thursday,Realme,5,67741,Ishika,49,Kolkata,Card,4,Redmi K50
+675,10-06-2023,Saturday,Samsung,7,12125,Ramesh,59,Bhopal,UPI,3,iPhone 15
+676,16-01-2023,Monday,OnePlus,4,68032,Rahul,40,Noida,Cash,5,Samsung Galaxy S23
+677,07-02-2023,Tuesday,Realme,9,66951,Priyanshu,55,Pune,Cash,4,Realme GT 2
+678,25-05-2023,Thursday,Xiaomi,1,51413,Sara,47,Delhi,Card,5,Xiaomi 11T
+679,09-02-2023,Thursday,Xiaomi,5,72019,Raj,18,Guhwati,Card,1,Xiaomi Mi 10
+680,03-04-2023,Monday,Samsung,5,56358,Riya,34,Pune,Card,5,OnePlus Nord CE 3
+681,21-06-2023,Wednesday,Apple,3,32034,Sara,39,Noida,Card,1,Xiaomi 13
+682,18-11-2023,Saturday,OnePlus,4,28278,Vivek,33,Delhi,Net Banking,5,Samsung Galaxy A54
+683,29-01-2023,Sunday,Apple,9,54627,Vivek,51,Delhi,UPI,3,Samsung Galaxy Note 20
+684,31-03-2023,Friday,Apple,7,14308,Ishika,42,Jaipur,Net Banking,5,OnePlus 11
+685,07-11-2023,Tuesday,Realme,4,69302,Gaurav,57,Surat,Card,4,Samsung Galaxy S23
+686,07-06-2023,Wednesday,OnePlus,7,52651,Pranav,30,Kolkata,Card,4,Realme GT 2
+687,08-02-2023,Wednesday,OnePlus,4,43314,Sumit,40,Mumbai,Card,4,Realme C55
+688,29-05-2023,Monday,Realme,3,74232,Sara,45,Ranchi,Net Banking,1,OnePlus 10
+689,22-07-2023,Saturday,Apple,6,28569,Jiya,26,Delhi,Cash,5,iPhone 12
+690,15-08-2023,Tuesday,Samsung,4,16169,Himanshu,23,Pune,Net Banking,1,Xiaomi 13
+691,18-02-2023,Saturday,OnePlus,1,64331,Riya,34,Chennai,Cash,5,Realme GT Neo 3
+692,05-08-2023,Saturday,OnePlus,6,45426,Riya,23,Mumbai,UPI,5,Realme Narzo 60
+693,08-03-2023,Wednesday,Apple,9,16197,Sumit,22,Kolkata,Net Banking,2,OnePlus Nord CE 3
+694,17-05-2023,Wednesday,Realme,5,16966,Vikas,32,Noida,Net Banking,4,iPhone 12
+695,29-04-2023,Saturday,Samsung,7,33865,Lokesh,23,Jaipur,Card,5,Samsung Galaxy A54
+696,12-10-2023,Thursday,Apple,8,19375,Pallavi,37,Noida,Cash,3,Samsung Galaxy A54
+697,21-02-2023,Tuesday,OnePlus,6,14569,Gaurav,42,Jaipur,Card,5,OnePlus 11
+698,15-11-2023,Wednesday,Apple,7,33881,Komal,55,Jaipur,Card,4,Xiaomi 11T
+699,09-12-2023,Saturday,Samsung,6,77514,Uphaar,27,Jaipur,UPI,1,Realme GT 2
+700,25-09-2023,Monday,OnePlus,1,23908,Himanshu,51,Guhwati,Card,5,OnePlus Nord 2T
+701,07-07-2023,Friday,Xiaomi,8,69468,Manisha,36,Noida,Net Banking,5,Realme 11
+702,01-08-2023,Tuesday,Realme,8,16663,Ishika,31,Ranchi,UPI,4,Redmi K50
+703,06-09-2023,Wednesday,Xiaomi,9,17349,Neha,43,Kolkata,Cash,5,OnePlus 10
+704,18-08-2023,Friday,Realme,9,72487,Riya,19,Mumbai,Net Banking,5,Samsung Galaxy Z5
+705,07-09-2023,Thursday,Realme,6,18469,Priyanshu,60,Noida,UPI,4,Xiaomi Mi 10
+706,09-05-2023,Tuesday,Samsung,8,12014,Diksha,25,Surat,Net Banking,3,Redmi Note 12
+707,27-08-2023,Sunday,Apple,4,45485,Rohit,23,Mumbai,Cash,3,OnePlus Nord 2T
+708,13-02-2023,Monday,Realme,6,40574,Bhuvan,21,Bhopal,Cash,5,iPhone 13
+709,25-11-2023,Saturday,Xiaomi,5,59344,Priya,56,Jaipur,Net Banking,5,Realme 11
+710,01-08-2023,Tuesday,Realme,9,22521,Pallavi,29,Chennai,UPI,5,Samsung Galaxy S23
+711,05-09-2023,Tuesday,Xiaomi,2,55974,Om,27,Chennai,UPI,5,Samsung Galaxy Z5
+712,16-06-2023,Friday,Xiaomi,8,78640,Aditya,27,Mumbai,Net Banking,5,OnePlus Nord CE 3
+713,13-12-2023,Wednesday,Xiaomi,9,39229,Gaurav,47,Delhi,Net Banking,3,Xiaomi 11T
+714,12-04-2023,Wednesday,Samsung,1,40950,Nandini,23,Surat,Card,5,Samsung Galaxy S23
+715,01-01-2024,Monday,Samsung,8,36121,Amit,48,Noida,Card,5,OnePlus 10
+716,24-10-2023,Tuesday,Xiaomi,1,66425,Neha,24,Bangalore,Net Banking,5,iPhone 15
+717,31-10-2023,Tuesday,Realme,6,23375,Om,44,Surat,Card,4,OnePlus Nord 2T
+718,06-12-2023,Wednesday,Apple,3,10368,Pallavi,42,Chennai,Net Banking,5,Redmi K50
+719,13-04-2023,Thursday,Samsung,1,16054,Sara,36,Noida,UPI,3,Xiaomi 13
+720,13-01-2023,Friday,Apple,5,53025,Himanshu,22,Mumbai,Net Banking,2,OnePlus Nord 2T
+721,25-11-2023,Saturday,Samsung,9,40408,Nandini,39,Delhi,UPI,3,Samsung Galaxy Note 20
+722,28-08-2023,Monday,OnePlus,6,21083,Uphaar,28,Ranchi,UPI,5,OnePlus 11
+723,22-06-2023,Thursday,Xiaomi,9,41477,Vishal,57,Delhi,Card,3,Samsung Galaxy A54
+724,30-07-2023,Sunday,Apple,2,15520,Bhuvan,21,Guhwati,Net Banking,2,Realme 11
+725,21-07-2023,Friday,OnePlus,5,23676,Mohit,21,Delhi,UPI,4,Realme GT 2
+726,20-08-2023,Sunday,Realme,2,76739,Gaurav,31,Ranchi,Card,4,Xiaomi 13
+727,08-07-2023,Saturday,OnePlus,1,52349,Chavi,27,Delhi,Cash,3,Realme Narzo 60
+728,04-03-2023,Saturday,Xiaomi,8,11313,Abhishek,43,Kolkata,Card,3,Samsung Galaxy S23
+729,05-07-2023,Wednesday,Samsung,4,22954,Nandini,21,Pune,Net Banking,5,Samsung Galaxy Z5
+730,14-01-2023,Saturday,Samsung,2,46130,Tanmay,26,Ranchi,Net Banking,3,Samsung Galaxy A54
+731,15-12-2023,Friday,Samsung,2,45397,Uphaar,32,Gurugram,UPI,2,Samsung Galaxy Note 20
+732,03-12-2023,Sunday,Xiaomi,2,62967,Nishita,24,Guhwati,Card,5,OnePlus 11
+733,08-10-2023,Sunday,OnePlus,6,15642,Priya,53,Guhwati,Net Banking,5,iPhone 13
+734,03-02-2023,Friday,Apple,6,28694,Manya,48,Bhopal,Cash,3,Xiaomi Mi 10
+735,20-04-2023,Thursday,Apple,9,65808,Pranav,54,Surat,Net Banking,3,Redmi Note 12
+736,18-01-2023,Wednesday,Apple,8,25695,Ishika,28,Bangalore,UPI,4,Xiaomi 13
+737,22-06-2023,Thursday,Xiaomi,7,49205,Bhuvan,21,Mumbai,UPI,4,Samsung Galaxy Z5
+738,29-09-2023,Friday,Realme,3,56867,Yash,40,Bhopal,Cash,5,Xiaomi 13
+739,17-01-2023,Tuesday,Xiaomi,8,39039,Yash,57,Delhi,Cash,5,Realme GT Neo 3
+740,04-06-2023,Sunday,Apple,3,61038,Vikas,56,Pune,UPI,5,Xiaomi 13
+741,13-08-2023,Sunday,OnePlus,6,16821,Jiya,46,Noida,Net Banking,5,Samsung Galaxy M34
+742,26-06-2023,Monday,Xiaomi,5,70120,Pranav,23,Bangalore,Net Banking,4,Samsung Galaxy Note 20
+743,22-11-2023,Wednesday,Apple,9,26170,Komal,26,Surat,Cash,5,OnePlus Nord 2T
+744,30-01-2023,Monday,Realme,1,27639,Ramesh,25,Noida,Card,1,OnePlus 9R
+745,25-09-2023,Monday,OnePlus,6,70068,Jiya,40,Chennai,Net Banking,3,iPhone 15
+746,19-04-2023,Wednesday,Samsung,7,48317,Riya,47,Surat,Cash,5,Samsung Galaxy Z5
+747,10-01-2023,Tuesday,Xiaomi,6,54342,Bhuvan,53,Bhopal,Net Banking,1,Redmi K50
+748,30-10-2023,Monday,Samsung,5,77085,Diksha,49,Surat,Cash,4,iPhone 11
+749,19-01-2023,Thursday,Apple,1,33268,Vishal,57,Kolkata,UPI,3,Redmi K50
+750,01-01-2023,Sunday,Realme,7,62753,Himanshu,36,Ranchi,UPI,4,OnePlus 11
+751,13-05-2023,Saturday,OnePlus,7,50830,Chavi,33,Pune,UPI,3,Xiaomi Mi 10
+752,16-09-2023,Saturday,Apple,6,57786,Diksha,43,Chennai,Card,3,Realme GT Neo 3
+753,11-10-2023,Wednesday,Xiaomi,4,46775,Vishal,18,Guhwati,Card,1,iPhone 13
+754,18-03-2023,Saturday,Xiaomi,9,26212,Gaurav,48,Kolkata,UPI,5,iPhone 12
+755,07-11-2023,Tuesday,Apple,5,38072,Manisha,44,Chennai,Net Banking,4,Redmi Note 12
+756,03-11-2023,Friday,Realme,8,46909,Nishita,46,Ranchi,Net Banking,3,Xiaomi 13
+757,23-08-2023,Wednesday,Samsung,8,14416,Rahul,41,Ranchi,Net Banking,4,Redmi Note 12
+758,14-03-2023,Tuesday,Apple,8,34036,Aditya,43,Gurugram,UPI,5,Realme C55
+759,30-10-2023,Monday,Realme,5,73040,Himanshu,28,Guhwati,Cash,3,Realme GT 2
+760,14-12-2023,Thursday,Realme,5,71339,Himanshu,44,Pune,Net Banking,2,Xiaomi Mi 10
+761,20-04-2023,Thursday,Xiaomi,4,26315,Vivek,52,Kolkata,Net Banking,4,Samsung Galaxy S23
+762,11-01-2023,Wednesday,Samsung,3,21033,Chavi,55,Mumbai,Net Banking,4,Samsung Galaxy S23
+763,24-11-2023,Friday,Realme,7,66176,Ishika,52,Bangalore,UPI,5,Realme GT Neo 3
+764,29-03-2023,Wednesday,Xiaomi,3,58426,Priya,58,Bhopal,UPI,5,OnePlus 10
+765,14-10-2023,Saturday,Realme,2,45087,Raj,58,Mumbai,UPI,5,Redmi Note 12
+766,09-02-2023,Thursday,Xiaomi,2,77116,Priyanshu,26,Surat,Cash,5,Redmi K50
+767,05-12-2023,Tuesday,Realme,6,59476,Deepak,39,Pune,UPI,3,OnePlus Nord 2T
+768,01-08-2023,Tuesday,Realme,8,11332,Uphaar,27,Pune,Cash,5,iPhone 11
+769,02-10-2023,Monday,OnePlus,4,26259,Manya,30,Kolkata,Card,5,Realme Narzo 60
+770,11-11-2023,Saturday,OnePlus,1,62962,Jiya,38,Ranchi,Card,5,Realme C55
+771,06-12-2023,Wednesday,OnePlus,6,56904,Himanshu,25,Delhi,Cash,2,Redmi K50
+772,30-12-2023,Saturday,Xiaomi,4,30122,Tanmay,56,Pune,Net Banking,2,OnePlus 10
+773,12-06-2023,Monday,Apple,8,61629,Uphaar,58,Jaipur,Card,3,OnePlus 9R
+774,26-10-2023,Thursday,Xiaomi,8,16796,Jiya,28,Bangalore,Card,5,Samsung Galaxy S23
+775,25-09-2023,Monday,Apple,4,63261,Diksha,58,Ranchi,Card,5,Realme Narzo 60
+776,16-11-2023,Thursday,Apple,4,41183,Khushi,46,Guhwati,Cash,5,Realme GT Neo 3
+777,26-06-2023,Monday,Apple,1,33379,Khushi,26,Chennai,Card,2,Realme 11
+778,21-09-2023,Thursday,Samsung,3,57567,Nandini,24,Delhi,Net Banking,3,Realme GT 2
+779,15-07-2023,Saturday,Realme,2,50598,Jiya,23,Chennai,UPI,4,OnePlus Nord 2T
+780,09-04-2023,Sunday,Xiaomi,9,76427,Tanmay,31,Bhopal,Cash,4,OnePlus 11
+781,11-04-2023,Tuesday,Samsung,4,51924,Priya,41,Pune,Card,4,Realme C55
+782,08-09-2023,Friday,Realme,5,24285,Tanmay,44,Jaipur,Card,1,Realme 11
+783,29-04-2023,Saturday,Realme,8,45549,Mohit,55,Jaipur,Card,5,Realme Narzo 60
+784,09-09-2023,Saturday,OnePlus,9,45130,Komal,25,Pune,Cash,1,Realme GT 2
+785,27-01-2023,Friday,Samsung,8,10009,Ishika,52,Bangalore,UPI,5,Realme Narzo 60
+786,04-07-2023,Tuesday,Xiaomi,8,26169,Rahul,42,Jaipur,Cash,3,iPhone 11
+787,15-01-2023,Sunday,OnePlus,4,73015,Aditya,32,Surat,UPI,5,iPhone 12
+788,06-02-2023,Monday,Samsung,3,79729,Mohit,43,Delhi,Net Banking,1,OnePlus Nord 2T
+789,17-10-2023,Tuesday,Apple,4,47049,Gaurav,49,Delhi,Cash,5,Realme GT Neo 3
+790,05-08-2023,Saturday,Samsung,1,16034,Sumit,36,Bhopal,Card,5,Realme GT 2
+791,02-07-2023,Sunday,Xiaomi,3,14285,Sara,54,Ranchi,Card,5,Samsung Galaxy M34
+792,18-09-2023,Monday,Samsung,2,70617,Vishal,55,Delhi,Card,3,Samsung Galaxy Z5
+793,22-06-2023,Thursday,Realme,4,32161,Nandini,48,Gurugram,Card,3,Redmi K50
+794,15-11-2023,Wednesday,Samsung,2,40808,Ishika,22,Guhwati,Card,5,iPhone 12
+795,09-08-2023,Wednesday,OnePlus,8,48054,Komal,45,Noida,Net Banking,5,iPhone 12
+796,02-10-2023,Monday,Realme,1,55406,Amit,44,Ranchi,Card,5,Samsung Galaxy A54
+797,28-07-2023,Friday,Realme,4,38097,Sara,38,Kolkata,Cash,4,Redmi K50
+798,21-02-2023,Tuesday,Realme,3,68468,Abhishek,36,Bhopal,Cash,3,Realme C55
+799,28-10-2023,Saturday,Apple,6,21274,Vivek,52,Ranchi,Net Banking,4,Xiaomi 13
+800,20-05-2023,Saturday,Xiaomi,5,67135,Mohit,44,Gurugram,Cash,5,Realme C55
+801,04-03-2023,Saturday,Realme,3,34727,Rohit,56,Guhwati,Cash,5,OnePlus 10
+802,01-01-2024,Monday,OnePlus,6,30711,Uphaar,29,Jaipur,Card,1,Samsung Galaxy M34
+803,04-08-2023,Friday,Samsung,6,15302,Amit,32,Surat,Net Banking,1,Redmi Note 12
+804,17-02-2023,Friday,Xiaomi,4,55276,Deepak,40,Mumbai,Net Banking,4,OnePlus 9R
+805,18-09-2023,Monday,OnePlus,3,44457,Aditya,22,Bhopal,Card,3,Samsung Galaxy S23
+806,24-06-2023,Saturday,Samsung,7,79499,Himanshu,24,Chennai,UPI,5,OnePlus Nord CE 3
+807,15-11-2023,Wednesday,Realme,6,73231,Tanmay,55,Kolkata,Card,5,Realme GT Neo 3
+808,08-11-2023,Wednesday,Apple,5,14835,Priyanshu,28,Mumbai,Net Banking,4,OnePlus 10
+809,25-04-2023,Tuesday,OnePlus,8,24205,Pranav,34,Gurugram,Card,2,OnePlus Nord 2T
+810,18-12-2023,Monday,OnePlus,2,15895,Priya,20,Bangalore,Cash,5,Samsung Galaxy M34
+811,30-10-2023,Monday,OnePlus,7,24746,Aditya,25,Ranchi,Card,5,Xiaomi 13
+812,12-10-2023,Thursday,Apple,6,29310,Aditya,50,Gurugram,Net Banking,5,OnePlus 10
+813,24-10-2023,Tuesday,Realme,1,23769,Tanisha,25,Pune,Card,3,Samsung Galaxy M34
+814,15-06-2023,Thursday,OnePlus,8,71751,Khushi,58,Jaipur,Card,3,OnePlus Nord 2T
+815,06-01-2023,Friday,Apple,2,67314,Vivek,56,Kolkata,UPI,4,iPhone 12
+816,18-08-2023,Friday,Samsung,5,19206,Yash,60,Ranchi,Cash,5,Redmi Note 12
+817,30-11-2023,Thursday,OnePlus,7,18519,Aditya,23,Mumbai,UPI,1,Xiaomi Mi 10
+818,31-12-2023,Sunday,Xiaomi,1,53785,Riya,24,Mumbai,Card,3,OnePlus 9R
+819,04-11-2023,Saturday,Xiaomi,3,77059,Ishika,28,Noida,Cash,2,Samsung Galaxy S23
+820,20-06-2023,Tuesday,Xiaomi,2,49423,Himanshu,35,Chennai,Net Banking,5,OnePlus 9R
+821,06-04-2023,Thursday,Apple,7,10856,Neha,43,Bhopal,Cash,4,Realme C55
+822,06-08-2023,Sunday,OnePlus,8,14334,Aditya,29,Noida,Card,5,OnePlus 11
+823,24-10-2023,Tuesday,Xiaomi,3,15473,Uphaar,59,Bhopal,Card,4,iPhone 12
+824,25-06-2023,Sunday,Realme,6,43675,Pallavi,32,Jaipur,Cash,4,Xiaomi 11T
+825,01-06-2023,Thursday,Apple,3,28300,Vishal,23,Jaipur,Net Banking,3,iPhone 13
+826,05-12-2023,Tuesday,OnePlus,8,29056,Pallavi,36,Delhi,Cash,5,Samsung Galaxy Z5
+827,14-02-2023,Tuesday,Realme,8,51311,Riya,35,Pune,UPI,3,iPhone 11
+828,26-06-2023,Monday,Samsung,4,61378,Priya,39,Chennai,Cash,4,OnePlus 11
+829,11-12-2023,Monday,OnePlus,5,40700,Mohit,51,Ranchi,UPI,4,OnePlus 11
+830,16-08-2023,Wednesday,Realme,9,71517,Yash,25,Bhopal,Card,5,Xiaomi 11T
+831,27-11-2023,Monday,Samsung,1,13932,Tanmay,52,Gurugram,Cash,5,iPhone 15
+832,27-01-2023,Friday,Samsung,8,13982,Vishal,28,Ranchi,Cash,5,Realme C55
+833,13-03-2023,Monday,Samsung,5,71092,Ishika,44,Mumbai,Net Banking,5,OnePlus 9R
+834,18-07-2023,Tuesday,Realme,7,74412,Priyanshu,59,Kolkata,Net Banking,3,OnePlus 11
+835,18-05-2023,Thursday,Samsung,4,30030,Yash,49,Pune,Net Banking,5,iPhone 13
+836,20-04-2023,Thursday,Xiaomi,2,18862,Pranav,19,Kolkata,Net Banking,3,Samsung Galaxy S23
+837,21-07-2023,Friday,Samsung,9,35686,Amit,51,Delhi,Card,4,Realme C55
+838,18-11-2023,Saturday,OnePlus,9,18769,Abhishek,36,Bangalore,Cash,4,Realme Narzo 60
+839,20-09-2023,Wednesday,Xiaomi,4,77621,Bhuvan,51,Kolkata,Card,2,OnePlus 11
+840,02-03-2023,Thursday,Apple,1,11557,Abhishek,38,Chennai,Net Banking,3,Xiaomi 13
+841,04-09-2023,Monday,Realme,1,78023,Khushi,40,Kolkata,Net Banking,5,Samsung Galaxy S23
+842,15-02-2023,Wednesday,Realme,2,46971,Nishita,18,Surat,UPI,3,OnePlus Nord CE 3
+843,08-04-2023,Saturday,OnePlus,5,37879,Nishita,32,Surat,UPI,5,OnePlus Nord 2T
+844,14-12-2023,Thursday,Realme,1,33188,Aditya,41,Bangalore,Card,3,iPhone 12
+845,04-09-2023,Monday,OnePlus,8,69540,Komal,21,Bhopal,Cash,3,OnePlus 11
+846,13-11-2023,Monday,Realme,6,45546,Lokesh,23,Noida,UPI,2,iPhone 15
+847,10-09-2023,Sunday,Xiaomi,9,33901,Om,49,Kolkata,UPI,5,Redmi K50
+848,31-03-2023,Friday,Realme,2,71745,Ramesh,46,Noida,Cash,3,Xiaomi 11T
+849,01-11-2023,Wednesday,Samsung,7,14408,Chavi,54,Chennai,UPI,5,Xiaomi 13
+850,20-02-2023,Monday,Samsung,8,22473,Yash,47,Ranchi,Cash,5,OnePlus 10
+851,26-04-2023,Wednesday,Realme,7,75128,Khushi,32,Gurugram,Cash,4,Xiaomi 13
+852,18-11-2023,Saturday,Apple,4,72629,Amit,21,Delhi,Card,4,Xiaomi 11T
+853,04-10-2023,Wednesday,Apple,2,63463,Gaurav,29,Surat,Cash,4,OnePlus 9R
+854,18-08-2023,Friday,Apple,6,44066,Rahul,41,Bangalore,Net Banking,2,iPhone 11
+855,24-09-2023,Sunday,Realme,7,19835,Aditya,40,Guhwati,UPI,5,Samsung Galaxy M34
+856,08-06-2023,Thursday,OnePlus,9,41386,Mohit,58,Noida,Card,5,OnePlus 11
+857,05-07-2023,Wednesday,OnePlus,3,75409,Vivek,44,Chennai,Card,4,Redmi K50
+858,04-11-2023,Saturday,OnePlus,9,54770,Raj,43,Bhopal,Net Banking,5,Redmi K50
+859,25-05-2023,Thursday,Realme,8,24047,Ishika,43,Surat,Card,5,OnePlus 10
+860,01-02-2023,Wednesday,Realme,2,36952,Neha,44,Gurugram,Cash,5,Samsung Galaxy A54
+861,25-02-2023,Saturday,Samsung,6,64220,Bhuvan,36,Bhopal,UPI,5,OnePlus Nord 2T
+862,05-02-2023,Sunday,Samsung,4,36944,Vishal,57,Bhopal,Cash,3,Realme GT 2
+863,28-09-2023,Thursday,Samsung,9,19623,Jiya,57,Guhwati,Card,3,Samsung Galaxy S23
+864,13-03-2023,Monday,Xiaomi,6,52384,Rohit,24,Delhi,Cash,3,iPhone 15
+865,08-06-2023,Thursday,Apple,1,40997,Diksha,57,Surat,Cash,3,Redmi Note 12
+866,19-02-2023,Sunday,Apple,2,75033,Tanisha,58,Bhopal,Cash,3,Realme GT 2
+867,16-11-2023,Thursday,OnePlus,5,32710,Sumit,25,Bhopal,UPI,2,Xiaomi Mi 10
+868,11-07-2023,Tuesday,Realme,9,13957,Manisha,41,Bangalore,UPI,4,Realme GT 2
+869,10-04-2023,Monday,Xiaomi,8,29126,Ishika,35,Surat,Net Banking,5,Samsung Galaxy S23
+870,22-12-2023,Friday,Apple,6,77700,Priya,34,Delhi,Net Banking,5,Xiaomi Mi 10
+871,15-03-2023,Wednesday,Realme,7,32924,Tanmay,45,Guhwati,Card,5,Samsung Galaxy Z5
+872,08-05-2023,Monday,Samsung,4,24716,Vikas,34,Guhwati,Card,5,Realme GT 2
+873,22-07-2023,Saturday,Apple,1,32771,Mohit,37,Bangalore,Net Banking,5,OnePlus 11
+874,24-08-2023,Thursday,OnePlus,6,18077,Aditya,23,Guhwati,Card,5,Xiaomi Mi 10
+875,17-08-2023,Thursday,Samsung,1,57992,Sumit,53,Noida,Net Banking,5,Samsung Galaxy Note 20
+876,05-09-2023,Tuesday,OnePlus,8,45463,Jiya,24,Delhi,Cash,4,Samsung Galaxy Note 20
+877,20-06-2023,Tuesday,Samsung,8,27475,Vivek,26,Bangalore,UPI,4,Redmi Note 12
+878,23-01-2023,Monday,Apple,1,20436,Tanmay,33,Kolkata,Card,5,Xiaomi Mi 10
+879,04-12-2023,Monday,Samsung,2,23133,Ishika,47,Gurugram,Net Banking,3,Samsung Galaxy A54
+880,10-02-2023,Friday,Xiaomi,2,12760,Ishika,30,Delhi,Net Banking,5,Xiaomi 13
+881,05-07-2023,Wednesday,Samsung,5,50313,Amit,51,Mumbai,Net Banking,5,OnePlus Nord CE 3
+882,29-07-2023,Saturday,OnePlus,3,63867,Bhuvan,37,Jaipur,Cash,5,Samsung Galaxy S23
+883,25-06-2023,Sunday,OnePlus,5,60476,Uphaar,24,Bangalore,Cash,5,Xiaomi 13
+884,08-05-2023,Monday,Samsung,8,26852,Deepak,22,Chennai,Card,5,OnePlus 9R
+885,08-11-2023,Wednesday,Xiaomi,3,72110,Tanisha,18,Gurugram,UPI,5,Realme GT Neo 3
+886,01-08-2023,Tuesday,Realme,3,64558,Vishal,38,Pune,Cash,3,Xiaomi Mi 10
+887,14-03-2023,Tuesday,Realme,1,64928,Om,44,Bhopal,Card,5,OnePlus Nord CE 3
+888,30-07-2023,Sunday,Realme,2,46736,Diksha,33,Jaipur,Net Banking,2,iPhone 12
+889,09-12-2023,Saturday,OnePlus,4,10736,Bhuvan,58,Noida,Card,5,Xiaomi 13
+890,27-11-2023,Monday,Xiaomi,3,16122,Pranav,42,Noida,UPI,4,Redmi K50
+891,07-10-2023,Saturday,Apple,3,33860,Vishal,32,Jaipur,Net Banking,3,OnePlus 9R
+892,20-04-2023,Thursday,OnePlus,7,28527,Khushi,53,Mumbai,Cash,5,Realme GT Neo 3
+893,06-03-2023,Monday,Apple,2,39130,Nandini,34,Chennai,Card,5,Samsung Galaxy M34
+894,06-10-2023,Friday,Apple,8,48338,Bhuvan,44,Pune,Cash,5,Realme Narzo 60
+895,18-03-2023,Saturday,OnePlus,9,37743,Chavi,29,Pune,Net Banking,5,OnePlus Nord CE 3
+896,13-12-2023,Wednesday,Apple,6,30026,Aditya,59,Ranchi,Net Banking,4,OnePlus 11
+897,03-12-2023,Sunday,Apple,3,49847,Jiya,25,Bangalore,Cash,5,OnePlus 10
+898,26-11-2023,Sunday,Xiaomi,1,66402,Jiya,47,Mumbai,Net Banking,4,Samsung Galaxy Note 20
+899,01-04-2023,Saturday,Samsung,8,59399,Nandini,43,Pune,UPI,2,Redmi Note 12
+900,30-08-2023,Wednesday,Samsung,9,53286,Ishika,32,Delhi,Net Banking,5,OnePlus Nord 2T
+901,29-11-2023,Wednesday,Samsung,6,19882,Bhuvan,59,Jaipur,UPI,5,OnePlus 9R
+902,06-08-2023,Sunday,Realme,3,74501,Bhuvan,41,Guhwati,Card,3,OnePlus Nord CE 3
+903,18-07-2023,Tuesday,Samsung,1,74413,Neha,37,Bhopal,Cash,3,iPhone 15
+904,03-09-2023,Sunday,OnePlus,7,22305,Aditya,38,Bangalore,Net Banking,5,Realme GT 2
+905,22-10-2023,Sunday,Xiaomi,7,43875,Priyanshu,44,Bhopal,UPI,3,Realme C55
+906,30-01-2023,Monday,Samsung,2,11658,Sara,28,Kolkata,Net Banking,5,iPhone 12
+907,29-06-2023,Thursday,Samsung,8,60935,Bhuvan,47,Mumbai,Card,4,OnePlus 9R
+908,18-07-2023,Tuesday,Samsung,9,16601,Abhishek,29,Jaipur,Cash,5,Realme Narzo 60
+909,19-02-2023,Sunday,OnePlus,6,32906,Rohit,48,Pune,Cash,4,Samsung Galaxy A54
+910,25-03-2023,Saturday,Apple,1,58906,Ishika,48,Gurugram,Net Banking,2,OnePlus 9R
+911,26-08-2023,Saturday,Apple,2,38592,Manisha,52,Guhwati,Cash,2,iPhone 13
+912,23-04-2023,Sunday,Xiaomi,6,12599,Vivek,42,Pune,Cash,4,Samsung Galaxy Z5
+913,29-05-2023,Monday,Realme,4,43628,Deepak,43,Surat,UPI,5,Samsung Galaxy Note 20
+914,01-06-2023,Thursday,Samsung,3,24188,Gaurav,53,Gurugram,Net Banking,5,iPhone 11
+915,07-11-2023,Tuesday,Apple,7,66945,Rahul,45,Noida,Card,4,Samsung Galaxy Z5
+916,20-01-2023,Friday,Samsung,3,74902,Mohit,28,Gurugram,Cash,5,Realme GT Neo 3
+917,02-04-2023,Sunday,OnePlus,6,36412,Mohit,46,Bhopal,Card,5,Samsung Galaxy S23
+918,28-08-2023,Monday,OnePlus,8,50508,Pallavi,42,Delhi,UPI,4,Realme GT Neo 3
+919,18-03-2023,Saturday,Samsung,1,36649,Sara,34,Chennai,Cash,5,Xiaomi Mi 10
+920,14-03-2023,Tuesday,Realme,9,13764,Himanshu,42,Bangalore,Card,1,Redmi K50
+921,19-10-2023,Thursday,Xiaomi,7,54211,Manisha,25,Delhi,Cash,5,Realme GT Neo 3
+922,02-03-2023,Thursday,Realme,9,23618,Priya,46,Pune,UPI,4,Samsung Galaxy A54
+923,05-05-2023,Friday,Samsung,6,78498,Raj,19,Surat,Cash,5,iPhone 12
+924,23-07-2023,Sunday,Apple,8,72434,Vivek,26,Bhopal,Card,4,iPhone 13
+925,21-12-2023,Thursday,Realme,5,13640,Yash,42,Delhi,Cash,4,Samsung Galaxy S23
+926,15-04-2023,Saturday,Samsung,2,45863,Sara,45,Guhwati,UPI,5,Redmi K50
+927,04-07-2023,Tuesday,Realme,3,28731,Komal,40,Surat,Net Banking,4,iPhone 15
+928,26-05-2023,Friday,Realme,4,20074,Ishika,26,Chennai,UPI,4,OnePlus Nord 2T
+929,29-05-2023,Monday,Xiaomi,1,64988,Gaurav,20,Mumbai,UPI,5,Realme C55
+930,21-07-2023,Friday,Samsung,1,17684,Om,32,Kolkata,Card,4,OnePlus 10
+931,04-02-2023,Saturday,Realme,1,59296,Gaurav,25,Bhopal,Card,5,OnePlus 11
+932,11-04-2023,Tuesday,OnePlus,9,29142,Jiya,44,Delhi,Cash,4,iPhone 11
+933,23-01-2023,Monday,Samsung,7,27384,Tanisha,47,Jaipur,Cash,4,iPhone 12
+934,04-08-2023,Friday,Realme,5,27432,Aditya,36,Ranchi,Net Banking,2,OnePlus 10
+935,23-10-2023,Monday,OnePlus,1,57037,Gaurav,42,Noida,Cash,4,Samsung Galaxy A54
+936,07-01-2023,Saturday,Samsung,9,27757,Himanshu,42,Chennai,Cash,5,Samsung Galaxy Note 20
+937,11-09-2023,Monday,Xiaomi,3,59429,Om,52,Guhwati,Cash,5,Xiaomi 13
+938,09-07-2023,Sunday,Apple,7,74543,Mohit,55,Noida,Card,3,Samsung Galaxy Note 20
+939,13-07-2023,Thursday,Samsung,1,77914,Gaurav,51,Gurugram,Net Banking,3,Xiaomi 13
+940,08-10-2023,Sunday,OnePlus,4,52676,Manisha,33,Gurugram,Card,2,Realme GT 2
+941,26-12-2023,Tuesday,Samsung,4,20773,Nishita,41,Pune,Cash,1,Samsung Galaxy Z5
+942,08-09-2023,Friday,OnePlus,3,31756,Ishika,51,Guhwati,Net Banking,2,Samsung Galaxy M34
+943,23-03-2023,Thursday,OnePlus,1,44947,Nandini,32,Jaipur,Card,3,OnePlus Nord 2T
+944,01-01-2024,Monday,OnePlus,4,21719,Aditya,60,Chennai,Card,5,OnePlus 9R
+945,02-04-2023,Sunday,Apple,9,43505,Deepak,22,Bangalore,Card,3,Realme Narzo 60
+946,21-08-2023,Monday,Apple,3,73287,Sumit,35,Jaipur,Net Banking,2,Samsung Galaxy Note 20
+947,03-01-2023,Tuesday,Samsung,7,36969,Manya,45,Mumbai,Cash,3,Xiaomi 11T
+948,27-02-2023,Monday,Apple,2,77184,Uphaar,38,Kolkata,UPI,5,Xiaomi 11T
+949,24-11-2023,Friday,Realme,6,12598,Priya,58,Surat,UPI,1,Xiaomi 11T
+950,04-05-2023,Thursday,Realme,1,59260,Khushi,32,Chennai,Net Banking,5,OnePlus Nord CE 3
+951,01-09-2023,Friday,Realme,1,70443,Ramesh,19,Mumbai,UPI,4,OnePlus 9R
+952,07-07-2023,Friday,Xiaomi,6,18529,Abhishek,25,Pune,UPI,5,iPhone 15
+953,31-05-2023,Wednesday,OnePlus,9,35302,Sara,46,Noida,UPI,5,Realme Narzo 60
+954,02-06-2023,Friday,Apple,5,60268,Pallavi,49,Guhwati,Cash,3,Samsung Galaxy S23
+955,12-06-2023,Monday,Xiaomi,9,52156,Tanmay,31,Bangalore,Cash,1,iPhone 15
+956,08-12-2023,Friday,Realme,2,32263,Abhishek,39,Ranchi,Cash,5,Samsung Galaxy Note 20
+957,21-02-2023,Tuesday,OnePlus,5,58824,Deepak,56,Gurugram,Cash,2,Redmi K50
+958,18-09-2023,Monday,Realme,5,59092,Riya,35,Jaipur,UPI,5,iPhone 11
+959,08-11-2023,Wednesday,Samsung,8,28516,Gaurav,25,Bangalore,Net Banking,5,Redmi Note 12
+960,16-04-2023,Sunday,OnePlus,2,61312,Lokesh,26,Ranchi,Card,5,Realme C55
+961,12-05-2023,Friday,Apple,2,58476,Priyanshu,58,Gurugram,Card,4,OnePlus Nord 2T
+962,16-12-2023,Saturday,Samsung,4,32162,Tanisha,31,Delhi,Card,4,Redmi K50
+963,25-06-2023,Sunday,Xiaomi,2,36182,Priya,24,Jaipur,Net Banking,5,OnePlus 11
+964,10-08-2023,Thursday,Apple,5,42377,Ishika,25,Surat,Cash,5,Realme Narzo 60
+965,22-11-2023,Wednesday,Samsung,9,36545,Neha,36,Jaipur,UPI,2,OnePlus Nord CE 3
+966,27-06-2023,Tuesday,OnePlus,4,26084,Vivek,56,Ranchi,Net Banking,2,Redmi K50
+967,20-08-2023,Sunday,Realme,7,28147,Mohit,20,Surat,Net Banking,1,Redmi K50
+968,19-02-2023,Sunday,Xiaomi,6,31182,Rohit,19,Mumbai,Card,5,OnePlus Nord CE 3
+969,10-06-2023,Saturday,Xiaomi,8,30836,Chavi,47,Jaipur,Net Banking,3,iPhone 15
+970,01-02-2023,Wednesday,OnePlus,7,56230,Bhuvan,46,Delhi,UPI,2,Realme 11
+971,26-12-2023,Tuesday,Realme,7,68932,Abhishek,57,Chennai,Card,5,OnePlus Nord 2T
+972,22-09-2023,Friday,OnePlus,1,47720,Himanshu,57,Delhi,Net Banking,5,Realme 11
+973,14-03-2023,Tuesday,Apple,4,79092,Neha,59,Bhopal,Net Banking,3,Samsung Galaxy Z5
+974,04-01-2023,Wednesday,Apple,3,18984,Riya,41,Gurugram,Cash,2,Samsung Galaxy Note 20
+975,10-02-2023,Friday,Xiaomi,3,22555,Gaurav,39,Mumbai,Cash,3,Samsung Galaxy Z5
+976,16-10-2023,Monday,Xiaomi,1,70350,Tanmay,42,Pune,UPI,4,iPhone 12
+977,18-08-2023,Friday,OnePlus,1,38782,Uphaar,39,Pune,Net Banking,3,Samsung Galaxy M34
+978,26-05-2023,Friday,Samsung,2,19160,Tanmay,42,Pune,UPI,3,iPhone 13
+979,18-08-2023,Friday,Samsung,4,47468,Khushi,44,Jaipur,Net Banking,2,OnePlus Nord 2T
+980,05-12-2023,Tuesday,Realme,4,13238,Nishita,57,Surat,UPI,5,iPhone 15
+981,11-12-2023,Monday,OnePlus,4,44269,Nishita,18,Jaipur,Card,3,Samsung Galaxy Z5
+982,04-10-2023,Wednesday,Xiaomi,6,46805,Mohit,38,Gurugram,Card,5,Xiaomi Mi 10
+983,05-03-2023,Sunday,Apple,6,57289,Vishal,54,Gurugram,UPI,4,Samsung Galaxy Note 20
+984,19-08-2023,Saturday,Xiaomi,5,34823,Deepak,52,Bhopal,UPI,4,Samsung Galaxy S23
+985,28-11-2023,Tuesday,Apple,1,75604,Riya,55,Chennai,UPI,1,OnePlus Nord CE 3
+986,01-12-2023,Friday,Xiaomi,2,75458,Priya,44,Bhopal,UPI,4,iPhone 13
+987,20-09-2023,Wednesday,Apple,9,69186,Jiya,38,Bhopal,Card,5,OnePlus Nord 2T
+988,21-10-2023,Saturday,Realme,6,73347,Aditya,56,Ranchi,Card,1,Samsung Galaxy A54
+989,10-09-2023,Sunday,Realme,2,60066,Priyanshu,26,Jaipur,UPI,5,iPhone 13
+990,01-10-2023,Sunday,Xiaomi,2,77323,Nishita,45,Jaipur,Card,4,Realme 11
+991,24-09-2023,Sunday,Samsung,2,67513,Aditya,27,Guhwati,Card,3,Realme C55
+992,21-04-2023,Friday,Apple,4,59332,Khushi,58,Surat,Net Banking,4,iPhone 15
+993,15-07-2023,Saturday,Samsung,1,73712,Priya,38,Bhopal,Cash,4,Xiaomi 13
+994,03-06-2023,Saturday,Samsung,1,43821,Ishika,24,Kolkata,Net Banking,5,Redmi K50
+995,10-02-2023,Friday,Samsung,6,64312,Nandini,49,Gurugram,Card,3,OnePlus Nord 2T
+996,27-02-2023,Monday,Samsung,1,33558,Mohit,27,Delhi,Cash,2,Xiaomi 13
+997,23-01-2023,Monday,OnePlus,8,38157,Riya,36,Pune,Card,3,Realme Narzo 60
+998,20-03-2023,Monday,Samsung,3,26651,Pranav,19,Bhopal,Card,4,OnePlus Nord 2T
+999,04-10-2023,Wednesday,Xiaomi,2,38154,Neha,31,Mumbai,Card,5,iPhone 11
+1000,15-02-2023,Wednesday,Apple,1,64469,Nandini,33,Bhopal,Net Banking,2,iPhone 12
